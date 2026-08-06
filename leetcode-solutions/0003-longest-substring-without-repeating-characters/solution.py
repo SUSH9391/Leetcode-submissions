@@ -1,17 +1,15 @@
+from collections import deque
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        charSet = set()
-        left = 0
-        max_length = 0
+        stringSet = set()
+        queue = deque()
+        maxLength = 0
+        for c in s:
+            while c in stringSet:
+                popped_char = queue.popleft()
+                stringSet.remove(popped_char)
+            queue.append(c)
+            stringSet.add(c)
 
-        for right in range(len(s)):
-            # If we find a duplicate, shrink the window from the left
-            while s[right] in charSet:
-                charSet.remove(s[left])
-                left += 1
-        
-            # Add the current character and update max_length
-            charSet.add(s[right])
-            max_length = max(max_length, right - left + 1)
-        
-        return max_length
+            maxLength = max(maxLength, len(queue))
+        return maxLength
