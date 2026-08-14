@@ -1,22 +1,19 @@
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
-        #creating an empty list in the form of list
-        expression = []
-        #remember to always have a variable ans where u can use this to get the final answer
-        for i in tokens:
-            if i not in "+-*/":
-                expression.append(int(i))
+        # we are supposed to use a stack and this stack is gonna pop integers whenever the pointer in the stack encounters a arthematic operator 
+        #eg: ["2", "1", "+", "3", "*"]
+        stack = []
+        for i in tokens: # here i is a pointer
+            if i == "+": 
+                stack.append(stack.pop() + stack.pop())
+            elif i == "*":
+                stack.append(stack.pop() * stack.pop())
+            elif i == "-":
+                a,b = stack.pop(), stack.pop()
+                stack.append(b-a)
+            elif i == "/":
+                a,b = stack.pop() , stack.pop()
+                stack.append(int(b/a))
             else:
-                item1 = expression.pop()
-                item2 = expression.pop()
-
-                match i:
-                    case "+":
-                        expression.append(item1 + item2)
-                    case "-":
-                        expression.append(item2 - item1)
-                    case "*":
-                        expression.append(item1 * item2)
-                    case "/":
-                        expression.append(int(item2 / item1)) #truncate towards 0 only int allowwed
-        return expression[-1]
+                stack.append(int(i))
+        return stack[-1]
