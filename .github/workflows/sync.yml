@@ -1,87 +1,21 @@
-name: Sync LeetCode
+name: Sync Leetcode
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # Allows you to manually trigger the sync whenever you want
   schedule:
-    - cron: "0 8 * * *"
-
-permissions:
-  contents: write
+    - cron: "0 8 * * *" # Automatically runs once a week (Every Saturday at 8:00 AM UTC)
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-    steps:
-      # Step 1: Ensure we check out the repository first so the runner knows main branch exists
-      - name: Checkout repo
-        uses: actions/checkout@v4
-        with:
-          ref: main
 
-      # Step 2: Download your 299 solutions straight into a raw folder called 'solutions'
-      - name: Run LeetCode Sync
+    steps:
+      - name: Sync Submissions
         uses: joshcai/leetcode-sync@v1.7
         with:
           github-token: ${{ secrets.GH_TOKEN }}
-          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
-          destination-folder: solutions
-
-      # Step 3: Run the local custom organizer engine dynamically
-      - name: Organize solutions by topic
-        run: |
-          cat << 'EOF' > dynamically_organize.js
-          const fs = require('fs');
-          const path = require('path');
-
-          const destFolder = 'solutions';
-          if (!fs.existsSync(destFolder)) {
-            console.log("Solutions folder wasn't populated by the sync tool.");
-            process.exit(0);
-          }
-
-          const files = fs.readdirSync(destFolder);
-          console.log(`Found ${files.length} items to sort.`);
-          
-          files.forEach(file => {
-            if (file === '.keep' || file === '.git') return;
-            const filePath = path.join(destFolder, file);
-            if (fs.lstatSync(filePath).isDirectory()) return;
-
-            let content = '';
-            try { content = fs.readFileSync(filePath, 'utf8'); } catch(e) {}
-            
-            let topic = 'Uncategorized';
-            const lowerContent = content.toLowerCase();
-            const lowerFile = file.toLowerCase();
-
-            if (lowerContent.includes('array') || lowerFile.includes('array')) topic = 'Arrays';
-            else if (lowerContent.includes('string') || lowerFile.includes('string')) topic = 'Strings';
-            else if (lowerContent.includes('dynamic programming') || lowerContent.includes('dp')) topic = 'Dynamic Programming';
-            else if (lowerContent.includes('graph') || lowerContent.includes('dfs') || lowerContent.includes('bfs')) topic = 'Graphs';
-            else if (lowerContent.includes('tree') || lowerContent.includes('binary search tree')) topic = 'Trees';
-            else if (lowerContent.includes('link') || lowerFile.includes('list')) topic = 'Linked Lists';
-
-            const topicDir = path.join(destFolder, topic);
-            if (!fs.existsSync(topicDir)) fs.mkdirSync(topicDir, { recursive: true });
-
-            fs.renameSync(filePath, path.join(topicDir, file));
-          });
-          EOF
-          node dynamically_organize.js
-          rm dynamically_organize.js
-
-      # Step 4: Force git to save the new folder layout to your GitHub profile
-      - name: Commit and Push Changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          if ! git diff --cached --quiet; then
-            git commit -m "Sync and categorize LeetCode solutions by topic"
-            git push origin main
-          else
-            console.log("No new solutions found to commit.");
-          fi
+          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
+          destination-folder: leetcode-solutions # Name of the folder where your code goes
+          verbose: true
+          commit-header: "[LeetCode Sync]"
