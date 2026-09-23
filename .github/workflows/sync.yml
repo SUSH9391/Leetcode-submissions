@@ -17,5 +17,6 @@ jobs:
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
           destination-folder: Leetcode-submissions # Name of the folder where your code goes
+          group-by-topics: true
           verbose: true
           commit-header: "[LeetCode Sync]"
