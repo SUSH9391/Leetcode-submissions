@@ -1,0 +1,6285 @@
+{
+  "1": {
+    "difficulty": "Easy",
+    "id": 1,
+    "slug": "two-sum",
+    "title": "Two Sum",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      }
+    ]
+  },
+  "100": {
+    "difficulty": "Easy",
+    "id": 100,
+    "slug": "same-tree",
+    "title": "Same Tree",
+    "topics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  },
+  "101": {
+    "difficulty": "Easy",
+    "id": 101,
+    "slug": "symmetric-tree",
+    "title": "Symmetric Tree",
+    "topics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  },
+  "1014": {
+    "difficulty": "Medium",
+    "id": 973,
+    "slug": "k-closest-points-to-origin",
+    "title": "K Closest Points to Origin",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Quickselect",
+        "slug": "quickselect"
+      },
+      {
+        "name": "K-D Tree",
+        "slug": "k-d-tree"
+      }
+    ]
+  },
+  "102": {
+    "difficulty": "Medium",
+    "id": 102,
+    "slug": "binary-tree-level-order-traversal",
+    "title": "Binary Tree Level Order Traversal",
+    "topics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  },
+  "1036": {
+    "difficulty": "Medium",
+    "id": 994,
+    "slug": "rotting-oranges",
+    "title": "Rotting Oranges",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "104": {
+    "difficulty": "Easy",
+    "id": 104,
+    "slug": "maximum-depth-of-binary-tree",
+    "title": "Maximum Depth of Binary Tree",
+    "topics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  },
+  "105": {
+    "difficulty": "Medium",
+    "id": 105,
+    "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  },
+  "11": {
+    "difficulty": "Medium",
+    "id": 11,
+    "slug": "container-with-most-water",
+    "title": "Container With Most Water",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "110": {
+    "difficulty": "Easy",
+    "id": 110,
+    "slug": "balanced-binary-tree",
+    "title": "Balanced Binary Tree",
+    "topics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  },
+  "1127": {
+    "difficulty": "Easy",
+    "id": 1046,
+    "slug": "last-stone-weight",
+    "title": "Last Stone Weight",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ]
+  },
+  "1146": {
+    "difficulty": "Easy",
+    "id": 1071,
+    "slug": "greatest-common-divisor-of-strings",
+    "title": "Greatest Common Divisor of Strings",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Euclidean Algorithm",
+        "slug": "euclidean-algorithm"
+      },
+      {
+        "name": "Greatest Common Divisor",
+        "slug": "greatest-common-divisor"
+      }
+    ]
+  },
+  "1159": {
+    "difficulty": "Medium",
+    "id": 1081,
+    "slug": "smallest-subsequence-of-distinct-characters",
+    "title": "Smallest Subsequence of Distinct Characters",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ]
+  },
+  "121": {
+    "difficulty": "Easy",
+    "id": 121,
+    "slug": "best-time-to-buy-and-sell-stock",
+    "title": "Best Time to Buy and Sell Stock",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
+  "1212": {
+    "difficulty": "Medium",
+    "id": 1291,
+    "slug": "sequential-digits",
+    "title": "Sequential Digits",
+    "topics": [
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "1222": {
+    "difficulty": "Medium",
+    "id": 1288,
+    "slug": "remove-covered-intervals",
+    "title": "Remove Covered Intervals",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "1234": {
+    "difficulty": "Hard",
+    "id": 1301,
+    "slug": "number-of-paths-with-max-score",
+    "title": "Number of Paths with Max Score",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "124": {
+    "difficulty": "Hard",
+    "id": 124,
+    "slug": "binary-tree-maximum-path-sum",
+    "title": "Binary Tree Maximum Path Sum",
+    "topics": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      },
+      {
+        "name": "DP on Trees",
+        "slug": "dp-on-trees"
+      }
+    ]
+  },
+  "125": {
+    "difficulty": "Easy",
+    "id": 125,
+    "slug": "valid-palindrome",
+    "title": "Valid Palindrome",
+    "topics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "1250": {
+    "difficulty": "Medium",
+    "id": 1143,
+    "slug": "longest-common-subsequence",
+    "title": "Longest Common Subsequence",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Longest Common Subsequence",
+        "slug": "longest-common-subsequence"
+      }
+    ]
+  },
+  "1256": {
+    "difficulty": "Easy",
+    "id": 1331,
+    "slug": "rank-transform-of-an-array",
+    "title": "Rank Transform of an Array",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "127": {
+    "difficulty": "Hard",
+    "id": 127,
+    "slug": "word-ladder",
+    "title": "Word Ladder",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Bidirectional Search",
+        "slug": "bidirectional-search"
+      }
+    ]
+  },
+  "128": {
+    "difficulty": "Medium",
+    "id": 128,
+    "slug": "longest-consecutive-sequence",
+    "title": "Longest Consecutive Sequence",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      }
+    ]
+  },
+  "13": {
+    "difficulty": "Easy",
+    "id": 13,
+    "slug": "roman-to-integer",
+    "title": "Roman to Integer",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "130": {
+    "difficulty": "Medium",
+    "id": 130,
+    "slug": "surrounded-regions",
+    "title": "Surrounded Regions",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "131": {
+    "difficulty": "Medium",
+    "id": 131,
+    "slug": "palindrome-partitioning",
+    "title": "Palindrome Partitioning",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ]
+  },
+  "134": {
+    "difficulty": "Medium",
+    "id": 134,
+    "slug": "gas-station",
+    "title": "Gas Station",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "136": {
+    "difficulty": "Easy",
+    "id": 136,
+    "slug": "single-number",
+    "title": "Single Number",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  },
+  "138": {
+    "difficulty": "Medium",
+    "id": 138,
+    "slug": "copy-list-with-random-pointer",
+    "title": "Copy List with Random Pointer",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ]
+  },
+  "1386": {
+    "difficulty": "Easy",
+    "id": 1260,
+    "slug": "shift-2d-grid",
+    "title": "Shift 2D Grid",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "139": {
+    "difficulty": "Medium",
+    "id": 139,
+    "slug": "word-break",
+    "title": "Word Break",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Brute-Force Search",
+        "slug": "brute-force-search"
+      }
+    ]
+  },
+  "14": {
+    "difficulty": "Easy",
+    "id": 14,
+    "slug": "longest-common-prefix",
+    "title": "Longest Common Prefix",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ]
+  },
+  "141": {
+    "difficulty": "Easy",
+    "id": 141,
+    "slug": "linked-list-cycle",
+    "title": "Linked List Cycle",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Floyd's Cycle Finding Algorithm",
+        "slug": "floyds-cycle-finding-algorithm"
+      }
+    ]
+  },
+  "1428": {
+    "difficulty": "Medium",
+    "id": 1306,
+    "slug": "jump-game-iii",
+    "title": "Jump Game III",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      }
+    ]
+  },
+  "143": {
+    "difficulty": "Medium",
+    "id": 143,
+    "slug": "reorder-list",
+    "title": "Reorder List",
+    "topics": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ]
+  },
+  "1443": {
+    "difficulty": "Hard",
+    "id": 1320,
+    "slug": "minimum-distance-to-type-a-word-using-two-fingers",
+    "title": "Minimum Distance to Type a Word Using Two Fingers",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
+  "1446": {
+    "difficulty": "Medium",
+    "id": 1344,
+    "slug": "angle-between-hands-of-a-clock",
+    "title": "Angle Between Hands of a Clock",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "1447": {
+    "difficulty": "Hard",
+    "id": 1345,
+    "slug": "jump-game-iv",
+    "title": "Jump Game IV",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      }
+    ]
+  },
+  "146": {
+    "difficulty": "Medium",
+    "id": 146,
+    "slug": "lru-cache",
+    "title": "LRU Cache",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Doubly-Linked List",
+        "slug": "doubly-linked-list"
+      }
+    ]
+  },
+  "1460": {
+    "difficulty": "Medium",
+    "id": 1358,
+    "slug": "number-of-substrings-containing-all-three-characters",
+    "title": "Number of Substrings Containing All Three Characters",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
+  "1482": {
+    "difficulty": "Easy",
+    "id": 1365,
+    "slug": "how-many-numbers-are-smaller-than-the-current-number",
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting Sort",
+        "slug": "counting-sort"
+      }
+    ]
+  },
+  "1487": {
+    "difficulty": "Medium",
+    "id": 1386,
+    "slug": "cinema-seat-allocation",
+    "title": "Cinema Seat Allocation",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  },
+  "15": {
+    "difficulty": "Medium",
+    "id": 15,
+    "slug": "3sum",
+    "title": "3Sum",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "150": {
+    "difficulty": "Medium",
+    "id": 150,
+    "slug": "evaluate-reverse-polish-notation",
+    "title": "Evaluate Reverse Polish Notation",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ]
+  },
+  "1507": {
+    "difficulty": "Medium",
+    "id": 1391,
+    "slug": "check-if-there-is-a-valid-path-in-a-grid",
+    "title": "Check if There is a Valid Path in a Grid",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "151": {
+    "difficulty": "Medium",
+    "id": 151,
+    "slug": "reverse-words-in-a-string",
+    "title": "Reverse Words in a String",
+    "topics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "152": {
+    "difficulty": "Medium",
+    "id": 152,
+    "slug": "maximum-product-subarray",
+    "title": "Maximum Product Subarray",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
+  "1522": {
+    "difficulty": "Hard",
+    "id": 1406,
+    "slug": "stone-game-iii",
+    "title": "Stone Game III",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Minimax",
+        "slug": "minimax-algorithm"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      },
+      {
+        "name": "Zero-Sum Game",
+        "slug": "zero-sum-game"
+      }
+    ]
+  },
+  "1528": {
+    "difficulty": "Easy",
+    "id": 1431,
+    "slug": "kids-with-the-greatest-number-of-candies",
+    "title": "Kids With the Greatest Number of Candies",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  },
+  "153": {
+    "difficulty": "Medium",
+    "id": 153,
+    "slug": "find-minimum-in-rotated-sorted-array",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      }
+    ]
+  },
+  "154": {
+    "difficulty": "Hard",
+    "id": 154,
+    "slug": "find-minimum-in-rotated-sorted-array-ii",
+    "title": "Find Minimum in Rotated Sorted Array II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      }
+    ]
+  },
+  "155": {
+    "difficulty": "Medium",
+    "id": 155,
+    "slug": "min-stack",
+    "title": "Min Stack",
+    "topics": [
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ]
+  },
+  "1552": {
+    "difficulty": "Medium",
+    "id": 1441,
+    "slug": "build-an-array-with-stack-operations",
+    "title": "Build an Array With Stack Operations",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "1567": {
+    "difficulty": "Medium",
+    "id": 1456,
+    "slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+    "title": "Maximum Number of Vowels in a Substring of Given Length",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
+  "1570": {
+    "difficulty": "Easy",
+    "id": 1475,
+    "slug": "final-prices-with-a-special-discount-in-a-shop",
+    "title": "Final Prices With a Special Discount in a Shop",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ]
+  },
+  "1574": {
+    "difficulty": "Easy",
+    "id": 1464,
+    "slug": "maximum-product-of-two-elements-in-an-array",
+    "title": "Maximum Product of Two Elements in an Array",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ]
+  },
+  "1580": {
+    "difficulty": "Easy",
+    "id": 1470,
+    "slug": "shuffle-the-array",
+    "title": "Shuffle the Array",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  },
+  "1644": {
+    "difficulty": "Hard",
+    "id": 1520,
+    "slug": "maximum-number-of-non-overlapping-substrings",
+    "title": "Maximum Number of Non-Overlapping Substrings",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "1663": {
+    "difficulty": "Medium",
+    "id": 1559,
+    "slug": "detect-cycles-in-2d-grid",
+    "title": "Detect Cycles in 2D Grid",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "1685": {
+    "difficulty": "Hard",
+    "id": 1563,
+    "slug": "stone-game-v",
+    "title": "Stone Game V",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      }
+    ]
+  },
+  "169": {
+    "difficulty": "Easy",
+    "id": 169,
+    "slug": "majority-element",
+    "title": "Majority Element",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Boyer\u2013Moore Majority Vote Algorithm",
+        "slug": "boyer-moore-majority-vote-algorithm"
+      }
+    ]
+  },
+  "17": {
+    "difficulty": "Medium",
+    "id": 17,
+    "slug": "letter-combinations-of-a-phone-number",
+    "title": "Letter Combinations of a Phone Number",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ]
+  },
+  "1706": {
+    "difficulty": "Medium",
+    "id": 1584,
+    "slug": "min-cost-to-connect-all-points",
+    "title": "Min Cost to Connect All Points",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      },
+      {
+        "name": "Minimum Spanning Tree",
+        "slug": "minimum-spanning-tree"
+      },
+      {
+        "name": "Prim's Algorithm",
+        "slug": "prims-algorithm"
+      },
+      {
+        "name": "Kruskal's Algorithm",
+        "slug": "kruskals-algorithm"
+      },
+      {
+        "name": "Bor\u016fvka's Algorithm",
+        "slug": "boruvkas-algorithm"
+      }
+    ]
+  },
+  "1725": {
+    "difficulty": "Medium",
+    "id": 1621,
+    "slug": "number-of-sets-of-k-non-overlapping-line-segments",
+    "title": "Number of Sets of K Non-Overlapping Line Segments",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "1756": {
+    "difficulty": "Medium",
+    "id": 1653,
+    "slug": "minimum-deletions-to-make-string-balanced",
+    "title": "Minimum Deletions to Make String Balanced",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ]
+  },
+  "1776": {
+    "difficulty": "Medium",
+    "id": 1658,
+    "slug": "minimum-operations-to-reduce-x-to-zero",
+    "title": "Minimum Operations to Reduce X to Zero",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "1784": {
+    "difficulty": "Hard",
+    "id": 1665,
+    "slug": "minimum-initial-energy-to-finish-tasks",
+    "title": "Minimum Initial Energy to Finish Tasks",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "1793": {
+    "difficulty": "Medium",
+    "id": 1674,
+    "slug": "minimum-moves-to-make-array-complementary",
+    "title": "Minimum Moves to Make Array Complementary",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "1798": {
+    "difficulty": "Medium",
+    "id": 1679,
+    "slug": "max-number-of-k-sum-pairs",
+    "title": "Max Number of K-Sum Pairs",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "1833": {
+    "difficulty": "Easy",
+    "id": 1732,
+    "slug": "find-the-highest-altitude",
+    "title": "Find the Highest Altitude",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "1894": {
+    "difficulty": "Easy",
+    "id": 1768,
+    "slug": "merge-strings-alternately",
+    "title": "Merge Strings Alternately",
+    "topics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "19": {
+    "difficulty": "Medium",
+    "id": 19,
+    "slug": "remove-nth-node-from-end-of-list",
+    "title": "Remove Nth Node From End of List",
+    "topics": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ]
+  },
+  "191": {
+    "difficulty": "Easy",
+    "id": 191,
+    "slug": "number-of-1-bits",
+    "title": "Number of 1 Bits",
+    "topics": [
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  },
+  "193": {
+    "difficulty": "Easy",
+    "id": 193,
+    "slug": "valid-phone-numbers",
+    "title": "Valid Phone Numbers",
+    "topics": [
+      {
+        "name": "Shell",
+        "slug": "shell"
+      }
+    ]
+  },
+  "195": {
+    "difficulty": "Easy",
+    "id": 195,
+    "slug": "tenth-line",
+    "title": "Tenth Line",
+    "topics": [
+      {
+        "name": "Shell",
+        "slug": "shell"
+      }
+    ]
+  },
+  "1956": {
+    "difficulty": "Medium",
+    "id": 1846,
+    "slug": "maximum-element-after-decreasing-and-rearranging",
+    "title": "Maximum Element After Decreasing and Rearranging",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "1968": {
+    "difficulty": "Hard",
+    "id": 1840,
+    "slug": "maximum-building-height",
+    "title": "Maximum Building Height",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "198": {
+    "difficulty": "Medium",
+    "id": 198,
+    "slug": "house-robber",
+    "title": "House Robber",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
+  "199": {
+    "difficulty": "Medium",
+    "id": 199,
+    "slug": "binary-tree-right-side-view",
+    "title": "Binary Tree Right Side View",
+    "topics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  },
+  "2": {
+    "difficulty": "Medium",
+    "id": 2,
+    "slug": "add-two-numbers",
+    "title": "Add Two Numbers",
+    "topics": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ]
+  },
+  "20": {
+    "difficulty": "Easy",
+    "id": 20,
+    "slug": "valid-parentheses",
+    "title": "Valid Parentheses",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Bracket Sequences",
+        "slug": "bracket-sequences"
+      }
+    ]
+  },
+  "200": {
+    "difficulty": "Medium",
+    "id": 200,
+    "slug": "number-of-islands",
+    "title": "Number of Islands",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "2001": {
+    "difficulty": "Medium",
+    "id": 1871,
+    "slug": "jump-game-vii",
+    "title": "Jump Game VII",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "2002": {
+    "difficulty": "Hard",
+    "id": 1872,
+    "slug": "stone-game-viii",
+    "title": "Stone Game VIII",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Minimax",
+        "slug": "minimax-algorithm"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      },
+      {
+        "name": "Zero-Sum Game",
+        "slug": "zero-sum-game"
+      }
+    ]
+  },
+  "2021": {
+    "difficulty": "Medium",
+    "id": 1910,
+    "slug": "remove-all-occurrences-of-a-substring",
+    "title": "Remove All Occurrences of a Substring",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "2026": {
+    "difficulty": "Medium",
+    "id": 1899,
+    "slug": "merge-triplets-to-form-target-triplet",
+    "title": "Merge Triplets to Form Target Triplet",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "204": {
+    "difficulty": "Medium",
+    "id": 204,
+    "slug": "count-primes",
+    "title": "Count Primes",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      },
+      {
+        "name": "Primality Test",
+        "slug": "primality-test"
+      },
+      {
+        "name": "Sieve Theory",
+        "slug": "sieve-theory"
+      },
+      {
+        "name": "Prime Number Sieve",
+        "slug": "prime-number-sieve"
+      }
+    ]
+  },
+  "2043": {
+    "difficulty": "Medium",
+    "id": 1914,
+    "slug": "cyclically-rotating-a-grid",
+    "title": "Cyclically Rotating a Grid",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "2058": {
+    "difficulty": "Easy",
+    "id": 1929,
+    "slug": "concatenation-of-array",
+    "title": "Concatenation of Array",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "207": {
+    "difficulty": "Medium",
+    "id": 207,
+    "slug": "course-schedule",
+    "title": "Course Schedule",
+    "topics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      },
+      {
+        "name": "Directed Acyclic Graph",
+        "slug": "directed-acyclic-graph"
+      }
+    ]
+  },
+  "2099": {
+    "difficulty": "Easy",
+    "id": 1967,
+    "slug": "number-of-strings-that-appear-as-substrings-in-word",
+    "title": "Number of Strings That Appear as Substrings in Word",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "21": {
+    "difficulty": "Easy",
+    "id": 21,
+    "slug": "merge-two-sorted-lists",
+    "title": "Merge Two Sorted Lists",
+    "topics": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ]
+  },
+  "210": {
+    "difficulty": "Medium",
+    "id": 210,
+    "slug": "course-schedule-ii",
+    "title": "Course Schedule II",
+    "topics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      }
+    ]
+  },
+  "2106": {
+    "difficulty": "Easy",
+    "id": 1979,
+    "slug": "find-greatest-common-divisor-of-array",
+    "title": "Find Greatest Common Divisor of Array",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      },
+      {
+        "name": "Euclidean Algorithm",
+        "slug": "euclidean-algorithm"
+      },
+      {
+        "name": "Greatest Common Divisor",
+        "slug": "greatest-common-divisor"
+      }
+    ]
+  },
+  "213": {
+    "difficulty": "Medium",
+    "id": 213,
+    "slug": "house-robber-ii",
+    "title": "House Robber II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
+  "215": {
+    "difficulty": "Medium",
+    "id": 215,
+    "slug": "kth-largest-element-in-an-array",
+    "title": "Kth Largest Element in an Array",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Quickselect",
+        "slug": "quickselect"
+      }
+    ]
+  },
+  "2156": {
+    "difficulty": "Medium",
+    "id": 2029,
+    "slug": "stone-game-ix",
+    "title": "Stone Game IX",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Minimax",
+        "slug": "minimax-algorithm"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      },
+      {
+        "name": "Nim Game",
+        "slug": "nim-game"
+      },
+      {
+        "name": "Zero-Sum Game",
+        "slug": "zero-sum-game"
+      }
+    ]
+  },
+  "2160": {
+    "difficulty": "Medium",
+    "id": 2033,
+    "slug": "minimum-operations-to-make-a-uni-value-grid",
+    "title": "Minimum Operations to Make a Uni-Value Grid",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "217": {
+    "difficulty": "Easy",
+    "id": 217,
+    "slug": "contains-duplicate",
+    "title": "Contains Duplicate",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "2182": {
+    "difficulty": "Medium",
+    "id": 2058,
+    "slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+    "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "topics": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ]
+  },
+  "22": {
+    "difficulty": "Medium",
+    "id": 22,
+    "slug": "generate-parentheses",
+    "title": "Generate Parentheses",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bracket Sequences",
+        "slug": "bracket-sequences"
+      }
+    ]
+  },
+  "2212": {
+    "difficulty": "Medium",
+    "id": 2091,
+    "slug": "removing-minimum-and-maximum-from-array",
+    "title": "Removing Minimum and Maximum From Array",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "2216": {
+    "difficulty": "Medium",
+    "id": 2095,
+    "slug": "delete-the-middle-node-of-a-linked-list",
+    "title": "Delete the Middle Node of a Linked List",
+    "topics": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ]
+  },
+  "2236": {
+    "difficulty": "Medium",
+    "id": 2130,
+    "slug": "maximum-twin-sum-of-a-linked-list",
+    "title": "Maximum Twin Sum of a Linked List",
+    "topics": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ]
+  },
+  "2245": {
+    "difficulty": "Medium",
+    "id": 2126,
+    "slug": "destroying-asteroids",
+    "title": "Destroying Asteroids",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "226": {
+    "difficulty": "Easy",
+    "id": 226,
+    "slug": "invert-binary-tree",
+    "title": "Invert Binary Tree",
+    "topics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  },
+  "229": {
+    "difficulty": "Medium",
+    "id": 229,
+    "slug": "majority-element-ii",
+    "title": "Majority Element II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Boyer\u2013Moore Majority Vote Algorithm",
+        "slug": "boyer-moore-majority-vote-algorithm"
+      }
+    ]
+  },
+  "230": {
+    "difficulty": "Medium",
+    "id": 230,
+    "slug": "kth-smallest-element-in-a-bst",
+    "title": "Kth Smallest Element in a BST",
+    "topics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  },
+  "2316": {
+    "difficulty": "Easy",
+    "id": 2210,
+    "slug": "count-hills-and-valleys-in-an-array",
+    "title": "Count Hills and Valleys in an Array",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  },
+  "2319": {
+    "difficulty": "Hard",
+    "id": 2213,
+    "slug": "longest-substring-of-one-repeating-character",
+    "title": "Longest Substring of One Repeating Character",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ]
+  },
+  "234": {
+    "difficulty": "Easy",
+    "id": 234,
+    "slug": "palindrome-linked-list",
+    "title": "Palindrome Linked List",
+    "topics": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ]
+  },
+  "235": {
+    "difficulty": "Medium",
+    "id": 235,
+    "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "topics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      },
+      {
+        "name": "Binary Lifting",
+        "slug": "binary-lifting"
+      },
+      {
+        "name": "Lowest Common Ancestor",
+        "slug": "lowest-common-ancestor"
+      }
+    ]
+  },
+  "238": {
+    "difficulty": "Medium",
+    "id": 238,
+    "slug": "product-of-array-except-self",
+    "title": "Product of Array Except Self",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "240": {
+    "difficulty": "Medium",
+    "id": 240,
+    "slug": "search-a-2d-matrix-ii",
+    "title": "Search a 2D Matrix II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "242": {
+    "difficulty": "Easy",
+    "id": 242,
+    "slug": "valid-anagram",
+    "title": "Valid Anagram",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "2559": {
+    "difficulty": "Hard",
+    "id": 2472,
+    "slug": "maximum-number-of-non-overlapping-palindrome-substrings",
+    "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+    "topics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "257": {
+    "difficulty": "Easy",
+    "id": 257,
+    "slug": "binary-tree-paths",
+    "title": "Binary Tree Paths",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  },
+  "258": {
+    "difficulty": "Easy",
+    "id": 258,
+    "slug": "add-digits",
+    "title": "Add Digits",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ]
+  },
+  "2582": {
+    "difficulty": "Medium",
+    "id": 2492,
+    "slug": "minimum-score-of-a-path-between-two-cities",
+    "title": "Minimum Score of a Path Between Two Cities",
+    "topics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      }
+    ]
+  },
+  "26": {
+    "difficulty": "Easy",
+    "id": 26,
+    "slug": "remove-duplicates-from-sorted-array",
+    "title": "Remove Duplicates from Sorted Array",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ]
+  },
+  "2634": {
+    "difficulty": "Easy",
+    "id": 2540,
+    "slug": "minimum-common-value",
+    "title": "Minimum Common Value",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      }
+    ]
+  },
+  "2639": {
+    "difficulty": "Easy",
+    "id": 2553,
+    "slug": "separate-the-digits-in-an-array",
+    "title": "Separate the Digits in an Array",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "27": {
+    "difficulty": "Easy",
+    "id": 27,
+    "slug": "remove-element",
+    "title": "Remove Element",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ]
+  },
+  "2732": {
+    "difficulty": "Easy",
+    "id": 2620,
+    "slug": "counter",
+    "title": "Counter",
+    "topics": []
+  },
+  "2766": {
+    "difficulty": "Medium",
+    "id": 2657,
+    "slug": "find-the-prefix-common-array-of-two-arrays",
+    "title": "Find the Prefix Common Array of Two Arrays",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  },
+  "2793": {
+    "difficulty": "Medium",
+    "id": 2685,
+    "slug": "count-the-number-of-complete-components",
+    "title": "Count the Number of Complete Components",
+    "topics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      }
+    ]
+  },
+  "28": {
+    "difficulty": "Easy",
+    "id": 28,
+    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+    "title": "Find the Index of the First Occurrence in a String",
+    "topics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      },
+      {
+        "name": "Z Algorithm",
+        "slug": "z-algorithm"
+      },
+      {
+        "name": "Knuth\u2013Morris\u2013Pratt Algorithm",
+        "slug": "knuth-morris-pratt-algorithm"
+      },
+      {
+        "name": "Boyer\u2013Moore String-Search Algorithm",
+        "slug": "boyer-moore-string-search-algorithm"
+      }
+    ]
+  },
+  "2809": {
+    "difficulty": "Easy",
+    "id": 2667,
+    "slug": "create-hello-world-function",
+    "title": "Create Hello World Function",
+    "topics": []
+  },
+  "283": {
+    "difficulty": "Easy",
+    "id": 283,
+    "slug": "move-zeroes",
+    "title": "Move Zeroes",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ]
+  },
+  "287": {
+    "difficulty": "Medium",
+    "id": 287,
+    "slug": "find-the-duplicate-number",
+    "title": "Find the Duplicate Number",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Pigeonhole Principle",
+        "slug": "pigeonhole-principle"
+      },
+      {
+        "name": "Floyd's Cycle Finding Algorithm",
+        "slug": "floyds-cycle-finding-algorithm"
+      }
+    ]
+  },
+  "2914": {
+    "difficulty": "Medium",
+    "id": 2812,
+    "slug": "find-the-safest-path-in-a-grid",
+    "title": "Find the Safest Path in a Grid",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "295": {
+    "difficulty": "Hard",
+    "id": 295,
+    "slug": "find-median-from-data-stream",
+    "title": "Find Median from Data Stream",
+    "topics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ]
+  },
+  "3": {
+    "difficulty": "Medium",
+    "id": 3,
+    "slug": "longest-substring-without-repeating-characters",
+    "title": "Longest Substring Without Repeating Characters",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
+  "300": {
+    "difficulty": "Medium",
+    "id": 300,
+    "slug": "longest-increasing-subsequence",
+    "title": "Longest Increasing Subsequence",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Longest Increasing Subsequence",
+        "slug": "longest-increasing-subsequence"
+      }
+    ]
+  },
+  "31": {
+    "difficulty": "Medium",
+    "id": 31,
+    "slug": "next-permutation",
+    "title": "Next Permutation",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ]
+  },
+  "3150": {
+    "difficulty": "Medium",
+    "id": 2904,
+    "slug": "shortest-and-lexicographically-smallest-beautiful-string",
+    "title": "Shortest and Lexicographically Smallest Beautiful String",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
+  "3219": {
+    "difficulty": "Medium",
+    "id": 2948,
+    "slug": "make-lexicographically-smallest-array-by-swapping-elements",
+    "title": "Make Lexicographically Smallest Array by Swapping Elements",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "322": {
+    "difficulty": "Medium",
+    "id": 322,
+    "slug": "coin-change",
+    "title": "Coin Change",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Knapsack Problem",
+        "slug": "knapsack-problem"
+      },
+      {
+        "name": "Complete Knapsack",
+        "slug": "complete-knapsack"
+      }
+    ]
+  },
+  "3275": {
+    "difficulty": "Easy",
+    "id": 3014,
+    "slug": "minimum-number-of-pushes-to-type-word-i",
+    "title": "Minimum Number of Pushes to Type Word I",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "3276": {
+    "difficulty": "Medium",
+    "id": 3016,
+    "slug": "minimum-number-of-pushes-to-type-word-ii",
+    "title": "Minimum Number of Pushes to Type Word II",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "3299": {
+    "difficulty": "Medium",
+    "id": 3020,
+    "slug": "find-the-maximum-number-of-elements-in-subset",
+    "title": "Find the Maximum Number of Elements in Subset",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "33": {
+    "difficulty": "Medium",
+    "id": 33,
+    "slug": "search-in-rotated-sorted-array",
+    "title": "Search in Rotated Sorted Array",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      }
+    ]
+  },
+  "332": {
+    "difficulty": "Hard",
+    "id": 332,
+    "slug": "reconstruct-itinerary",
+    "title": "Reconstruct Itinerary",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Eulerian Circuit",
+        "slug": "eulerian-circuit"
+      },
+      {
+        "name": "Eulerian Path",
+        "slug": "eulerian-path"
+      },
+      {
+        "name": "Semi-Eulerian Graph",
+        "slug": "semi-eulerian-graph"
+      }
+    ]
+  },
+  "3329": {
+    "difficulty": "Medium",
+    "id": 3043,
+    "slug": "find-the-length-of-the-longest-common-prefix",
+    "title": "Find the Length of the Longest Common Prefix",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ]
+  },
+  "334": {
+    "difficulty": "Medium",
+    "id": 334,
+    "slug": "increasing-triplet-subsequence",
+    "title": "Increasing Triplet Subsequence",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Longest Increasing Subsequence",
+        "slug": "longest-increasing-subsequence"
+      }
+    ]
+  },
+  "3375": {
+    "difficulty": "Hard",
+    "id": 3116,
+    "slug": "kth-smallest-amount-with-single-denomination-combination",
+    "title": "Kth Smallest Amount With Single Denomination Combination",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ]
+  },
+  "3376": {
+    "difficulty": "Hard",
+    "id": 3093,
+    "slug": "longest-common-suffix-queries",
+    "title": "Longest Common Suffix Queries",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ]
+  },
+  "338": {
+    "difficulty": "Easy",
+    "id": 338,
+    "slug": "counting-bits",
+    "title": "Counting Bits",
+    "topics": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  },
+  "344": {
+    "difficulty": "Easy",
+    "id": 344,
+    "slug": "reverse-string",
+    "title": "Reverse String",
+    "topics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "345": {
+    "difficulty": "Easy",
+    "id": 345,
+    "slug": "reverse-vowels-of-a-string",
+    "title": "Reverse Vowels of a String",
+    "topics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "347": {
+    "difficulty": "Medium",
+    "id": 347,
+    "slug": "top-k-frequent-elements",
+    "title": "Top K Frequent Elements",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Bucket Sort",
+        "slug": "bucket-sort"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Quickselect",
+        "slug": "quickselect"
+      }
+    ]
+  },
+  "3470": {
+    "difficulty": "Hard",
+    "id": 3225,
+    "slug": "maximum-score-from-grid-operations",
+    "title": "Maximum Score From Grid Operations",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "35": {
+    "difficulty": "Easy",
+    "id": 35,
+    "slug": "search-insert-position",
+    "title": "Search Insert Position",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      }
+    ]
+  },
+  "355": {
+    "difficulty": "Medium",
+    "id": 355,
+    "slug": "design-twitter",
+    "title": "Design Twitter",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ]
+  },
+  "3558": {
+    "difficulty": "Medium",
+    "id": 3286,
+    "slug": "find-a-safe-walk-through-a-grid",
+    "title": "Find a Safe Walk Through a Grid",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ]
+  },
+  "3561": {
+    "difficulty": "Medium",
+    "id": 3310,
+    "slug": "remove-methods-from-project",
+    "title": "Remove Methods From Project",
+    "topics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      }
+    ]
+  },
+  "3562": {
+    "difficulty": "Hard",
+    "id": 3414,
+    "slug": "maximum-score-of-non-overlapping-intervals",
+    "title": "Maximum Score of Non-overlapping Intervals",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "3583": {
+    "difficulty": "Hard",
+    "id": 3312,
+    "slug": "sorted-gcd-pair-queries",
+    "title": "Sorted GCD Pair Queries",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      },
+      {
+        "name": "Euclidean Algorithm",
+        "slug": "euclidean-algorithm"
+      },
+      {
+        "name": "Greatest Common Divisor",
+        "slug": "greatest-common-divisor"
+      }
+    ]
+  },
+  "36": {
+    "difficulty": "Medium",
+    "id": 36,
+    "slug": "valid-sudoku",
+    "title": "Valid Sudoku",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "3606": {
+    "difficulty": "Easy",
+    "id": 3300,
+    "slug": "minimum-element-after-replacement-with-digit-sum",
+    "title": "Minimum Element After Replacement With Digit Sum",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "3608": {
+    "difficulty": "Hard",
+    "id": 3336,
+    "slug": "find-the-number-of-subsequences-with-equal-gcd",
+    "title": "Find the Number of Subsequences With Equal GCD",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      },
+      {
+        "name": "Euclidean Algorithm",
+        "slug": "euclidean-algorithm"
+      },
+      {
+        "name": "Greatest Common Divisor",
+        "slug": "greatest-common-divisor"
+      }
+    ]
+  },
+  "3617": {
+    "difficulty": "Easy",
+    "id": 3330,
+    "slug": "find-the-original-typed-string-i",
+    "title": "Find the Original Typed String I",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "3626": {
+    "difficulty": "Easy",
+    "id": 3345,
+    "slug": "smallest-divisible-digit-product-i",
+    "title": "Smallest Divisible Digit Product I",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "3705": {
+    "difficulty": "Easy",
+    "id": 3471,
+    "slug": "find-the-largest-almost-missing-integer",
+    "title": "Find the Largest Almost Missing Integer",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      }
+    ]
+  },
+  "3762": {
+    "difficulty": "Hard",
+    "id": 3449,
+    "slug": "maximize-the-minimum-game-score",
+    "title": "Maximize the Minimum Game Score",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "3763": {
+    "difficulty": "Medium",
+    "id": 3453,
+    "slug": "separate-squares-i",
+    "title": "Separate Squares I",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      }
+    ]
+  },
+  "3781": {
+    "difficulty": "Hard",
+    "id": 3464,
+    "slug": "maximize-the-distance-between-points-on-a-square",
+    "title": "Maximize the Distance Between Points on a Square",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "3799": {
+    "difficulty": "Easy",
+    "id": 3483,
+    "slug": "unique-3-digit-even-numbers",
+    "title": "Unique 3-Digit Even Numbers",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "3804": {
+    "difficulty": "Hard",
+    "id": 3501,
+    "slug": "maximize-active-section-with-trade-ii",
+    "title": "Maximize Active Section with Trade II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ]
+  },
+  "3805": {
+    "difficulty": "Medium",
+    "id": 3499,
+    "slug": "maximize-active-section-with-trade-i",
+    "title": "Maximize Active Section with Trade I",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "3811": {
+    "difficulty": "Easy",
+    "id": 3498,
+    "slug": "reverse-degree-of-a-string",
+    "title": "Reverse Degree of a String",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "3812": {
+    "difficulty": "Medium",
+    "id": 3517,
+    "slug": "smallest-palindromic-rearrangement-i",
+    "title": "Smallest Palindromic Rearrangement I",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting Sort",
+        "slug": "counting-sort"
+      }
+    ]
+  },
+  "3813": {
+    "difficulty": "Hard",
+    "id": 3518,
+    "slug": "smallest-palindromic-rearrangement-ii",
+    "title": "Smallest Palindromic Rearrangement II",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "3820": {
+    "difficulty": "Medium",
+    "id": 3514,
+    "slug": "number-of-unique-xor-triplets-ii",
+    "title": "Number of Unique XOR Triplets II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "3824": {
+    "difficulty": "Medium",
+    "id": 3513,
+    "slug": "number-of-unique-xor-triplets-i",
+    "title": "Number of Unique XOR Triplets I",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  },
+  "3831": {
+    "difficulty": "Medium",
+    "id": 3524,
+    "slug": "find-x-value-of-array-i",
+    "title": "Find X Value of Array I",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
+  "3838": {
+    "difficulty": "Medium",
+    "id": 3532,
+    "slug": "path-existence-queries-in-a-graph-i",
+    "title": "Path Existence Queries in a Graph I",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      }
+    ]
+  },
+  "3840": {
+    "difficulty": "Hard",
+    "id": 3525,
+    "slug": "find-x-value-of-array-ii",
+    "title": "Find X Value of Array II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ]
+  },
+  "3842": {
+    "difficulty": "Hard",
+    "id": 3559,
+    "slug": "number-of-ways-to-assign-edge-weights-ii",
+    "title": "Number of Ways to Assign Edge Weights II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ]
+  },
+  "3852": {
+    "difficulty": "Hard",
+    "id": 3534,
+    "slug": "path-existence-queries-in-a-graph-ii",
+    "title": "Path Existence Queries in a Graph II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "3859": {
+    "difficulty": "Easy",
+    "id": 3536,
+    "slug": "maximum-product-of-two-digits",
+    "title": "Maximum Product of Two Digits",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "3875": {
+    "difficulty": "Hard",
+    "id": 3575,
+    "slug": "maximum-good-subtree-score",
+    "title": "Maximum Good Subtree Score",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Bitmask",
+        "slug": "bitmask"
+      }
+    ]
+  },
+  "3886": {
+    "difficulty": "Medium",
+    "id": 3623,
+    "slug": "count-number-of-trapezoids-i",
+    "title": "Count Number of Trapezoids I",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ]
+  },
+  "39": {
+    "difficulty": "Medium",
+    "id": 39,
+    "slug": "combination-sum",
+    "title": "Combination Sum",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ]
+  },
+  "3918": {
+    "difficulty": "Easy",
+    "id": 3622,
+    "slug": "check-divisibility-by-digit-sum-and-product",
+    "title": "Check Divisibility by Digit Sum and Product",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "3919": {
+    "difficulty": "Hard",
+    "id": 3620,
+    "slug": "network-recovery-pathways",
+    "title": "Network Recovery Pathways",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ]
+  },
+  "392": {
+    "difficulty": "Easy",
+    "id": 392,
+    "slug": "is-subsequence",
+    "title": "Is Subsequence",
+    "topics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
+  "396": {
+    "difficulty": "Medium",
+    "id": 396,
+    "slug": "rotate-function",
+    "title": "Rotate Function",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
+  "3964": {
+    "difficulty": "Hard",
+    "id": 3700,
+    "slug": "number-of-zigzag-arrays-ii",
+    "title": "Number of ZigZag Arrays II",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
+  "3965": {
+    "difficulty": "Easy",
+    "id": 3633,
+    "slug": "earliest-finish-time-for-land-and-water-rides-i",
+    "title": "Earliest Finish Time for Land and Water Rides I",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "3981": {
+    "difficulty": "Medium",
+    "id": 3660,
+    "slug": "jump-game-ix",
+    "title": "Jump Game IX",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
+  "3986": {
+    "difficulty": "Medium",
+    "id": 3742,
+    "slug": "maximum-path-score-in-a-grid",
+    "title": "Maximum Path Score in a Grid",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "3995": {
+    "difficulty": "Easy",
+    "id": 3658,
+    "slug": "gcd-of-odd-and-even-sums",
+    "title": "GCD of Odd and Even Sums",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ]
+  },
+  "4": {
+    "difficulty": "Hard",
+    "id": 4,
+    "slug": "median-of-two-sorted-arrays",
+    "title": "Median of Two Sorted Arrays",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      }
+    ]
+  },
+  "40": {
+    "difficulty": "Medium",
+    "id": 40,
+    "slug": "combination-sum-ii",
+    "title": "Combination Sum II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ]
+  },
+  "4005": {
+    "difficulty": "Medium",
+    "id": 3689,
+    "slug": "maximum-total-subarray-value-i",
+    "title": "Maximum Total Subarray Value I",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "4020": {
+    "difficulty": "Medium",
+    "id": 3720,
+    "slug": "lexicographically-smallest-permutation-greater-than-target",
+    "title": "Lexicographically Smallest Permutation Greater Than Target",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "4037": {
+    "difficulty": "Hard",
+    "id": 3734,
+    "slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
+    "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
+    "topics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "4057": {
+    "difficulty": "Medium",
+    "id": 3751,
+    "slug": "total-waviness-of-numbers-in-range-i",
+    "title": "Total Waviness of Numbers in Range I",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "4074": {
+    "difficulty": "Medium",
+    "id": 3737,
+    "slug": "count-subarrays-with-majority-element-i",
+    "title": "Count Subarrays With Majority Element I",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Merge Sort",
+        "slug": "merge-sort"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "4075": {
+    "difficulty": "Hard",
+    "id": 3739,
+    "slug": "count-subarrays-with-majority-element-ii",
+    "title": "Count Subarrays With Majority Element II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Merge Sort",
+        "slug": "merge-sort"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "4080": {
+    "difficulty": "Easy",
+    "id": 3718,
+    "slug": "smallest-missing-multiple-of-k",
+    "title": "Smallest Missing Multiple of K",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      }
+    ]
+  },
+  "4119": {
+    "difficulty": "Medium",
+    "id": 3741,
+    "slug": "minimum-distance-between-three-equal-elements-ii",
+    "title": "Minimum Distance Between Three Equal Elements II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      }
+    ]
+  },
+  "412": {
+    "difficulty": "Easy",
+    "id": 412,
+    "slug": "fizz-buzz",
+    "title": "Fizz Buzz",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "4135": {
+    "difficulty": "Easy",
+    "id": 3754,
+    "slug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+    "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "4136": {
+    "difficulty": "Medium",
+    "id": 3756,
+    "slug": "concatenate-non-zero-digits-and-multiply-by-sum-ii",
+    "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "416": {
+    "difficulty": "Medium",
+    "id": 416,
+    "slug": "partition-equal-subset-sum",
+    "title": "Partition Equal Subset Sum",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Knapsack Problem",
+        "slug": "knapsack-problem"
+      },
+      {
+        "name": "0-1 Knapsack",
+        "slug": "0-1-knapsack"
+      }
+    ]
+  },
+  "417": {
+    "difficulty": "Medium",
+    "id": 417,
+    "slug": "pacific-atlantic-water-flow",
+    "title": "Pacific Atlantic Water Flow",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "4196": {
+    "difficulty": "Medium",
+    "id": 4058,
+    "slug": "maximum-pulse-value-after-one-subarray-rotation",
+    "title": "Maximum Pulse Value After One Subarray Rotation",
+    "topics": []
+  },
+  "42": {
+    "difficulty": "Hard",
+    "id": 42,
+    "slug": "trapping-rain-water",
+    "title": "Trapping Rain Water",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ]
+  },
+  "4216": {
+    "difficulty": "Easy",
+    "id": 3838,
+    "slug": "weighted-word-mapping",
+    "title": "Weighted Word Mapping",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "4242": {
+    "difficulty": "Medium",
+    "id": 3867,
+    "slug": "sum-of-gcd-of-formed-pairs",
+    "title": "Sum of GCD of Formed Pairs",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ]
+  },
+  "4245": {
+    "difficulty": "Easy",
+    "id": 3870,
+    "slug": "count-commas-in-range",
+    "title": "Count Commas in Range",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "4248": {
+    "difficulty": "Medium",
+    "id": 3871,
+    "slug": "count-commas-in-range-ii",
+    "title": "Count Commas in Range II",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "4270": {
+    "difficulty": "Medium",
+    "id": 3914,
+    "slug": "minimum-operations-to-make-array-non-decreasing",
+    "title": "Minimum Operations to Make Array Non Decreasing",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "4282": {
+    "difficulty": "Medium",
+    "id": 3913,
+    "slug": "sort-vowels-by-frequency",
+    "title": "Sort Vowels by Frequency",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "4284": {
+    "difficulty": "Easy",
+    "id": 3903,
+    "slug": "smallest-stable-index-i",
+    "title": "Smallest Stable Index I",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "4285": {
+    "difficulty": "Medium",
+    "id": 3904,
+    "slug": "smallest-stable-index-ii",
+    "title": "Smallest Stable Index II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "4290": {
+    "difficulty": "Easy",
+    "id": 3912,
+    "slug": "valid-elements-in-an-array",
+    "title": "Valid Elements in an Array",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  },
+  "43": {
+    "difficulty": "Medium",
+    "id": 43,
+    "slug": "multiply-strings",
+    "title": "Multiply Strings",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "435": {
+    "difficulty": "Medium",
+    "id": 435,
+    "slug": "non-overlapping-intervals",
+    "title": "Non-overlapping Intervals",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "4382": {
+    "difficulty": "Medium",
+    "id": 4045,
+    "slug": "count-robot-groups",
+    "title": "Count Robot Groups",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ]
+  },
+  "4406": {
+    "difficulty": "Medium",
+    "id": 4050,
+    "slug": "minimum-days-to-score-exactly-n-points",
+    "title": "Minimum Days to Score Exactly N Points",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
+  "4411": {
+    "difficulty": "Easy",
+    "id": 4043,
+    "slug": "count-rotations-with-exactly-k-equal-adjacent-pairs",
+    "title": "Count Rotations With Exactly K Equal Adjacent Pairs",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "4412": {
+    "difficulty": "Medium",
+    "id": 4044,
+    "slug": "count-good-cyclic-rotations",
+    "title": "Count Good Cyclic Rotations",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "4414": {
+    "difficulty": "Medium",
+    "id": 4049,
+    "slug": "count-values-with-equally-spaced-occurrences-ii",
+    "title": "Count Values With Equally Spaced Occurrences II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      }
+    ]
+  },
+  "4415": {
+    "difficulty": "Easy",
+    "id": 4048,
+    "slug": "count-values-with-equally-spaced-occurrences-i",
+    "title": "Count Values With Equally Spaced Occurrences I",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      }
+    ]
+  },
+  "4417": {
+    "difficulty": "Medium",
+    "id": 4057,
+    "slug": "number-of-intersecting-interval-pairs-ii",
+    "title": "Number of Intersecting Interval Pairs II",
+    "topics": []
+  },
+  "4418": {
+    "difficulty": "Easy",
+    "id": 4056,
+    "slug": "number-of-intersecting-interval-pairs-i",
+    "title": "Number of Intersecting Interval Pairs I",
+    "topics": []
+  },
+  "443": {
+    "difficulty": "Medium",
+    "id": 443,
+    "slug": "string-compression",
+    "title": "String Compression",
+    "topics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "448": {
+    "difficulty": "Easy",
+    "id": 448,
+    "slug": "find-all-numbers-disappeared-in-an-array",
+    "title": "Find All Numbers Disappeared in an Array",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      }
+    ]
+  },
+  "45": {
+    "difficulty": "Medium",
+    "id": 45,
+    "slug": "jump-game-ii",
+    "title": "Jump Game II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "46": {
+    "difficulty": "Medium",
+    "id": 46,
+    "slug": "permutations",
+    "title": "Permutations",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ]
+  },
+  "485": {
+    "difficulty": "Easy",
+    "id": 485,
+    "slug": "max-consecutive-ones",
+    "title": "Max Consecutive Ones",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  },
+  "49": {
+    "difficulty": "Medium",
+    "id": 49,
+    "slug": "group-anagrams",
+    "title": "Group Anagrams",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "5": {
+    "difficulty": "Medium",
+    "id": 5,
+    "slug": "longest-palindromic-substring",
+    "title": "Longest Palindromic Substring",
+    "topics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Manacher",
+        "slug": "manacher"
+      }
+    ]
+  },
+  "50": {
+    "difficulty": "Medium",
+    "id": 50,
+    "slug": "powx-n",
+    "title": "Pow(x, n)",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ]
+  },
+  "51": {
+    "difficulty": "Hard",
+    "id": 51,
+    "slug": "n-queens",
+    "title": "N-Queens",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Algorithm X",
+        "slug": "algorithm-x"
+      }
+    ]
+  },
+  "53": {
+    "difficulty": "Medium",
+    "id": 53,
+    "slug": "maximum-subarray",
+    "title": "Maximum Subarray",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
+  "54": {
+    "difficulty": "Medium",
+    "id": 54,
+    "slug": "spiral-matrix",
+    "title": "Spiral Matrix",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "540": {
+    "difficulty": "Medium",
+    "id": 540,
+    "slug": "single-element-in-a-sorted-array",
+    "title": "Single Element in a Sorted Array",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      }
+    ]
+  },
+  "543": {
+    "difficulty": "Easy",
+    "id": 543,
+    "slug": "diameter-of-binary-tree",
+    "title": "Diameter of Binary Tree",
+    "topics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      },
+      {
+        "name": "DP on Trees",
+        "slug": "dp-on-trees"
+      }
+    ]
+  },
+  "55": {
+    "difficulty": "Medium",
+    "id": 55,
+    "slug": "jump-game",
+    "title": "Jump Game",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "56": {
+    "difficulty": "Medium",
+    "id": 56,
+    "slug": "merge-intervals",
+    "title": "Merge Intervals",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Quicksort",
+        "slug": "quicksort"
+      }
+    ]
+  },
+  "563": {
+    "difficulty": "Easy",
+    "id": 563,
+    "slug": "binary-tree-tilt",
+    "title": "Binary Tree Tilt",
+    "topics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      },
+      {
+        "name": "DP on Trees",
+        "slug": "dp-on-trees"
+      }
+    ]
+  },
+  "567": {
+    "difficulty": "Medium",
+    "id": 567,
+    "slug": "permutation-in-string",
+    "title": "Permutation in String",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
+  "57": {
+    "difficulty": "Medium",
+    "id": 57,
+    "slug": "insert-interval",
+    "title": "Insert Interval",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  },
+  "58": {
+    "difficulty": "Easy",
+    "id": 58,
+    "slug": "length-of-last-word",
+    "title": "Length of Last Word",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "59": {
+    "difficulty": "Medium",
+    "id": 59,
+    "slug": "spiral-matrix-ii",
+    "title": "Spiral Matrix II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "6": {
+    "difficulty": "Medium",
+    "id": 6,
+    "slug": "zigzag-conversion",
+    "title": "Zigzag Conversion",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "605": {
+    "difficulty": "Easy",
+    "id": 605,
+    "slug": "can-place-flowers",
+    "title": "Can Place Flowers",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "61": {
+    "difficulty": "Medium",
+    "id": 61,
+    "slug": "rotate-list",
+    "title": "Rotate List",
+    "topics": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ]
+  },
+  "62": {
+    "difficulty": "Medium",
+    "id": 62,
+    "slug": "unique-paths",
+    "title": "Unique Paths",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ]
+  },
+  "621": {
+    "difficulty": "Medium",
+    "id": 621,
+    "slug": "task-scheduler",
+    "title": "Task Scheduler",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "628": {
+    "difficulty": "Easy",
+    "id": 628,
+    "slug": "maximum-product-of-three-numbers",
+    "title": "Maximum Product of Three Numbers",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "636": {
+    "difficulty": "Medium",
+    "id": 636,
+    "slug": "exclusive-time-of-functions",
+    "title": "Exclusive Time of Functions",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ]
+  },
+  "643": {
+    "difficulty": "Easy",
+    "id": 643,
+    "slug": "maximum-average-subarray-i",
+    "title": "Maximum Average Subarray I",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
+  "645": {
+    "difficulty": "Easy",
+    "id": 645,
+    "slug": "set-mismatch",
+    "title": "Set Mismatch",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "647": {
+    "difficulty": "Medium",
+    "id": 647,
+    "slug": "palindromic-substrings",
+    "title": "Palindromic Substrings",
+    "topics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
+  "66": {
+    "difficulty": "Easy",
+    "id": 66,
+    "slug": "plus-one",
+    "title": "Plus One",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "67": {
+    "difficulty": "Easy",
+    "id": 67,
+    "slug": "add-binary",
+    "title": "Add Binary",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "678": {
+    "difficulty": "Medium",
+    "id": 678,
+    "slug": "valid-parenthesis-string",
+    "title": "Valid Parenthesis String",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Bracket Sequences",
+        "slug": "bracket-sequences"
+      }
+    ]
+  },
+  "68": {
+    "difficulty": "Hard",
+    "id": 68,
+    "slug": "text-justification",
+    "title": "Text Justification",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "684": {
+    "difficulty": "Medium",
+    "id": 684,
+    "slug": "redundant-connection",
+    "title": "Redundant Connection",
+    "topics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      }
+    ]
+  },
+  "69": {
+    "difficulty": "Easy",
+    "id": 69,
+    "slug": "sqrtx",
+    "title": "Sqrt(x)",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Newton's Method",
+        "slug": "newtons-method"
+      }
+    ]
+  },
+  "695": {
+    "difficulty": "Medium",
+    "id": 695,
+    "slug": "max-area-of-island",
+    "title": "Max Area of Island",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "7": {
+    "difficulty": "Medium",
+    "id": 7,
+    "slug": "reverse-integer",
+    "title": "Reverse Integer",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "70": {
+    "difficulty": "Easy",
+    "id": 70,
+    "slug": "climbing-stairs",
+    "title": "Climbing Stairs",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ]
+  },
+  "739": {
+    "difficulty": "Medium",
+    "id": 739,
+    "slug": "daily-temperatures",
+    "title": "Daily Temperatures",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ]
+  },
+  "74": {
+    "difficulty": "Medium",
+    "id": 74,
+    "slug": "search-a-2d-matrix",
+    "title": "Search a 2D Matrix",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "744": {
+    "difficulty": "Medium",
+    "id": 743,
+    "slug": "network-delay-time",
+    "title": "Network Delay Time",
+    "topics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      },
+      {
+        "name": "Dijkstra's Algorithm",
+        "slug": "dijkstra"
+      }
+    ]
+  },
+  "747": {
+    "difficulty": "Easy",
+    "id": 746,
+    "slug": "min-cost-climbing-stairs",
+    "title": "Min Cost Climbing Stairs",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
+  "768": {
+    "difficulty": "Medium",
+    "id": 763,
+    "slug": "partition-labels",
+    "title": "Partition Labels",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "78": {
+    "difficulty": "Medium",
+    "id": 78,
+    "slug": "subsets",
+    "title": "Subsets",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  },
+  "789": {
+    "difficulty": "Easy",
+    "id": 703,
+    "slug": "kth-largest-element-in-a-stream",
+    "title": "Kth Largest Element in a Stream",
+    "topics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ]
+  },
+  "79": {
+    "difficulty": "Medium",
+    "id": 79,
+    "slug": "word-search",
+    "title": "Word Search",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "792": {
+    "difficulty": "Easy",
+    "id": 704,
+    "slug": "binary-search",
+    "title": "Binary Search",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      }
+    ]
+  },
+  "794": {
+    "difficulty": "Hard",
+    "id": 778,
+    "slug": "swim-in-rising-water",
+    "title": "Swim in Rising Water",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Minimax",
+        "slug": "minimax-algorithm"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Dijkstra's Algorithm",
+        "slug": "dijkstra"
+      }
+    ]
+  },
+  "80": {
+    "difficulty": "Medium",
+    "id": 80,
+    "slug": "remove-duplicates-from-sorted-array-ii",
+    "title": "Remove Duplicates from Sorted Array II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ]
+  },
+  "803": {
+    "difficulty": "Medium",
+    "id": 787,
+    "slug": "cheapest-flights-within-k-stops",
+    "title": "Cheapest Flights Within K Stops",
+    "topics": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ]
+  },
+  "804": {
+    "difficulty": "Medium",
+    "id": 788,
+    "slug": "rotated-digits",
+    "title": "Rotated Digits",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
+  "812": {
+    "difficulty": "Easy",
+    "id": 796,
+    "slug": "rotate-string",
+    "title": "Rotate String",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ]
+  },
+  "83": {
+    "difficulty": "Easy",
+    "id": 83,
+    "slug": "remove-duplicates-from-sorted-list",
+    "title": "Remove Duplicates from Sorted List",
+    "topics": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ]
+  },
+  "84": {
+    "difficulty": "Hard",
+    "id": 84,
+    "slug": "largest-rectangle-in-histogram",
+    "title": "Largest Rectangle in Histogram",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      },
+      {
+        "name": "Range Minimum/Maximum Query",
+        "slug": "range-minimum-maximum-query"
+      }
+    ]
+  },
+  "864": {
+    "difficulty": "Medium",
+    "id": 835,
+    "slug": "image-overlap",
+    "title": "Image Overlap",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "866": {
+    "difficulty": "Easy",
+    "id": 836,
+    "slug": "rectangle-overlap",
+    "title": "Rectangle Overlap",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ]
+  },
+  "876": {
+    "difficulty": "Medium",
+    "id": 846,
+    "slug": "hand-of-straights",
+    "title": "Hand of Straights",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "88": {
+    "difficulty": "Easy",
+    "id": 88,
+    "slug": "merge-sorted-array",
+    "title": "Merge Sorted Array",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "882": {
+    "difficulty": "Medium",
+    "id": 852,
+    "slug": "peak-index-in-a-mountain-array",
+    "title": "Peak Index in a Mountain Array",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Ternary Search",
+        "slug": "ternary-search"
+      }
+    ]
+  },
+  "883": {
+    "difficulty": "Medium",
+    "id": 853,
+    "slug": "car-fleet",
+    "title": "Car Fleet",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ]
+  },
+  "9": {
+    "difficulty": "Easy",
+    "id": 9,
+    "slug": "palindrome-number",
+    "title": "Palindrome Number",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "90": {
+    "difficulty": "Medium",
+    "id": 90,
+    "slug": "subsets-ii",
+    "title": "Subsets II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  },
+  "91": {
+    "difficulty": "Medium",
+    "id": 91,
+    "slug": "decode-ways",
+    "title": "Decode Ways",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
+  "911": {
+    "difficulty": "Hard",
+    "id": 879,
+    "slug": "profitable-schemes",
+    "title": "Profitable Schemes",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Knapsack Problem",
+        "slug": "knapsack-problem"
+      },
+      {
+        "name": "0-1 Knapsack",
+        "slug": "0-1-knapsack"
+      }
+    ]
+  },
+  "918": {
+    "difficulty": "Hard",
+    "id": 882,
+    "slug": "reachable-nodes-in-subdivided-graph",
+    "title": "Reachable Nodes In Subdivided Graph",
+    "topics": [
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      },
+      {
+        "name": "Dijkstra's Algorithm",
+        "slug": "dijkstra"
+      }
+    ]
+  },
+  "923": {
+    "difficulty": "Hard",
+    "id": 887,
+    "slug": "super-egg-drop",
+    "title": "Super Egg Drop",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
+  "94": {
+    "difficulty": "Easy",
+    "id": 94,
+    "slug": "binary-tree-inorder-traversal",
+    "title": "Binary Tree Inorder Traversal",
+    "topics": [
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  },
+  "977": {
+    "difficulty": "Hard",
+    "id": 940,
+    "slug": "distinct-subsequences-ii",
+    "title": "Distinct Subsequences II",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}
