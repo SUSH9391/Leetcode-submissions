@@ -12,29 +12,31 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Syncs files from LeetCode into a folder named "solutions"
       - name: Run LeetCode Sync
         uses: joshcai/leetcode-sync@v1.7
         with:
-          github-token: ${{ github.token }}
+          github-token: ${{ secrets.GH_TOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
           destination-folder: solutions
 
-      # Checkout repo so we can manipulate the downloaded files
+      # Step 2: Check out the repo locally so we can move files around
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
           ref: main
 
+      # Step 3: Use Node to group files into folders
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: "20"
 
-      # This creates the organize script automatically using bash
+      # Step 4: Write and run the file organizer script dynamically
       - name: Organize solutions by topic
         run: |
-          cat << 'EOF' > organize.js
+          cat << 'EOF' > dynamically_organize.js
           const fs = require('fs');
           const path = require('path');
 
@@ -51,17 +53,20 @@ jobs:
             const filePath = path.join(destFolder, file);
             if (fs.lstatSync(filePath).isDirectory()) return;
 
-            // Simple parser: Checks the file text for common keywords to categorize it
-            // If LeetCode Sync outputs a markdown summary or metadata, we read it here.
             let content = '';
             try { content = fs.readFileSync(filePath, 'utf8'); } catch(e) {}
             
+            // Evaluates code contents or file naming conventions to sort them
             let topic = 'Uncategorized';
-            if (content.toLowerCase().includes('array')) topic = 'Arrays';
-            else if (content.toLowerCase().includes('string')) topic = 'Strings';
-            else if (content.toLowerCase().includes('dynamic programming') || content.toLowerCase().includes('dp')) topic = 'Dynamic Programming';
-            else if (content.toLowerCase().includes('graph') || content.toLowerCase().includes('dfs') || content.toLowerCase().includes('bfs')) topic = 'Graphs';
-            else if (content.toLowerCase().includes('tree')) topic = 'Trees';
+            const lowerContent = content.toLowerCase();
+            const lowerFile = file.toLowerCase();
+
+            if (lowerContent.includes('array') || lowerFile.includes('array')) topic = 'Arrays';
+            else if (lowerContent.includes('string') || lowerFile.includes('string')) topic = 'Strings';
+            else if (lowerContent.includes('dynamic programming') || lowerContent.includes('dp')) topic = 'Dynamic Programming';
+            else if (lowerContent.includes('graph') || lowerContent.includes('dfs') || lowerContent.includes('bfs')) topic = 'Graphs';
+            else if (lowerContent.includes('tree') || lowerContent.includes('binary search tree')) topic = 'Trees';
+            else if (lowerContent.includes('link') || lowerFile.includes('list')) topic = 'Linked Lists';
 
             const topicDir = path.join(destFolder, topic);
             if (!fs.existsSync(topicDir)) fs.mkdirSync(topicDir, { recursive: true });
@@ -70,13 +75,14 @@ jobs:
             console.log(`Moved ${file} to ${topic}`);
           });
           EOF
-          node organize.js
-          rm organize.js
+          node dynamically_organize.js
+          rm dynamically_organize.js
 
+      # Step 5: Save and push the clean folder structure to your profile
       - name: Commit organized files
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "github-actions[bot]@://github.com"
           git add -A
           git diff --cached --quiet || git commit -m "Organize solutions by topic"
           git push
