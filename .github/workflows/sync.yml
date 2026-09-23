@@ -12,18 +12,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: syncs new accepted solutions straight to GitHub via the
-      # REST API. This does NOT check out the repo locally.
       - name: Run LeetCode Sync
         uses: joshcai/leetcode-sync@v1.7
         with:
-          github-token: ${{ github.token }}
-          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
-          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+          github-token: \${{ github.token }}
+          leetcode-session: \${{ secrets.LEETCODE_SESSION }}
+          leetcode-csrf-token: \${{ secrets.LEETCODE_CSRF_TOKEN }}
           destination-folder: solutions
 
-      # Step 2: NOW check out the repo, so we get the files the
-      # previous step just committed via the API.
+      # Checkout repo so we can manipulate the downloaded files
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
@@ -34,10 +31,47 @@ jobs:
         with:
           node-version: "20"
 
+      # This creates the organize script automatically using bash
       - name: Organize solutions by topic
-        run: node scripts/organize.js
-        env:
-          DEST_FOLDER: "solutions"
+        run: |
+          cat << 'EOF' > organize.js
+          const fs = require('fs');
+          const path = require('path');
+
+          const destFolder = 'solutions';
+          if (!fs.existsSync(destFolder)) {
+            console.log("No solutions folder found yet.");
+            process.exit(0);
+          }
+
+          const files = fs.readdirSync(destFolder);
+          
+          files.forEach(file => {
+            if (file === '.keep') return;
+            const filePath = path.join(destFolder, file);
+            if (fs.lstatSync(filePath).isDirectory()) return;
+
+            // Simple parser: Checks the file text for common keywords to categorize it
+            // If LeetCode Sync outputs a markdown summary or metadata, we read it here.
+            let content = '';
+            try { content = fs.readFileSync(filePath, 'utf8'); } catch(e) {}
+            
+            let topic = 'Uncategorized';
+            if (content.toLowerCase().includes('array')) topic = 'Arrays';
+            else if (content.toLowerCase().includes('string')) topic = 'Strings';
+            else if (content.toLowerCase().includes('dynamic programming') || content.toLowerCase().includes('dp')) topic = 'Dynamic Programming';
+            else if (content.toLowerCase().includes('graph') || content.toLowerCase().includes('dfs') || content.toLowerCase().includes('bfs')) topic = 'Graphs';
+            else if (content.toLowerCase().includes('tree')) topic = 'Trees';
+
+            const topicDir = path.join(destFolder, topic);
+            if (!fs.existsSync(topicDir)) fs.mkdirSync(topicDir, { recursive: true });
+
+            fs.renameSync(filePath, path.join(topicDir, file));
+            console.log(`Moved ${file} to ${topic}`);
+          });
+          EOF
+          node organize.js
+          rm organize.js
 
       - name: Commit organized files
         run: |
