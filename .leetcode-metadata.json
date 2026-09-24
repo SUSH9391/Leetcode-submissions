@@ -3945,6 +3945,22 @@
       }
     ]
   },
+  "3869": {
+    "difficulty": "Easy",
+    "id": 3550,
+    "slug": "smallest-index-with-digit-sum-equal-to-index",
+    "title": "Smallest Index With Digit Sum Equal to Index",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
   "3875": {
     "difficulty": "Hard",
     "id": 3575,

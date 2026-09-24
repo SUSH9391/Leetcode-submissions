@@ -1,6 +1,6 @@
 # Array
 
-**Problems solved:** 173
+**Problems solved:** 174
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -156,6 +156,7 @@
 | 3840 | [Find X Value of Array II](../leetcode-solutions/3840-find-x-value-of-array-ii) | Hard |
 | 3842 | [Number of Ways to Assign Edge Weights II](../leetcode-solutions/3842-number-of-ways-to-assign-edge-weights-ii) | Hard |
 | 3852 | [Path Existence Queries in a Graph II](../leetcode-solutions/3852-path-existence-queries-in-a-graph-ii) | Hard |
+| 3869 | [Smallest Index With Digit Sum Equal to Index](../leetcode-solutions/3869-smallest-index-with-digit-sum-equal-to-index) | Easy |
 | 3875 | [Maximum Good Subtree Score](../leetcode-solutions/3875-maximum-good-subtree-score) | Hard |
 | 3886 | [Count Number of Trapezoids I](../leetcode-solutions/3886-count-number-of-trapezoids-i) | Medium |
 | 3919 | [Network Recovery Pathways](../leetcode-solutions/3919-network-recovery-pathways) | Hard |

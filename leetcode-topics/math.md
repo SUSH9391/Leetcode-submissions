@@ -1,6 +1,6 @@
 # Math
 
-**Problems solved:** 56
+**Problems solved:** 57
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -49,6 +49,7 @@
 | 3840 | [Find X Value of Array II](../leetcode-solutions/3840-find-x-value-of-array-ii) | Hard |
 | 3842 | [Number of Ways to Assign Edge Weights II](../leetcode-solutions/3842-number-of-ways-to-assign-edge-weights-ii) | Hard |
 | 3859 | [Maximum Product of Two Digits](../leetcode-solutions/3859-maximum-product-of-two-digits) | Easy |
+| 3869 | [Smallest Index With Digit Sum Equal to Index](../leetcode-solutions/3869-smallest-index-with-digit-sum-equal-to-index) | Easy |
 | 3886 | [Count Number of Trapezoids I](../leetcode-solutions/3886-count-number-of-trapezoids-i) | Medium |
 | 3918 | [Check Divisibility by Digit Sum and Product](../leetcode-solutions/3918-check-divisibility-by-digit-sum-and-product) | Easy |
 | 3964 | [Number of ZigZag Arrays II](../leetcode-solutions/3964-number-of-zigzag-arrays-ii) | Hard |

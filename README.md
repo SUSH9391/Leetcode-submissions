@@ -4,11 +4,11 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 ## Progress
 
-**Total indexed:** 298
+**Total indexed:** 299
 
 | Difficulty | Solved |
 |---|---:|
-| Easy | 94 |
+| Easy | 95 |
 | Medium | 160 |
 | Hard | 44 |
 
@@ -16,9 +16,9 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 | Topic | Problems |
 |---|---:|
-| [Array](leetcode-topics/array.md) | 173 |
+| [Array](leetcode-topics/array.md) | 174 |
 | [String](leetcode-topics/string.md) | 66 |
-| [Math](leetcode-topics/math.md) | 56 |
+| [Math](leetcode-topics/math.md) | 57 |
 | [Dynamic Programming](leetcode-topics/dynamic-programming.md) | 54 |
 | [Hash Table](leetcode-topics/hash-table.md) | 52 |
 | [Sorting](leetcode-topics/sorting.md) | 40 |
