@@ -1,6 +1,6 @@
 # String
 
-**Problems solved:** 66
+**Problems solved:** 67
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -48,6 +48,7 @@
 | 1644 | [Maximum Number of Non-Overlapping Substrings](../leetcode-solutions/1644-maximum-number-of-non-overlapping-substrings) | Hard |
 | 1756 | [Minimum Deletions to Make String Balanced](../leetcode-solutions/1756-minimum-deletions-to-make-string-balanced) | Medium |
 | 1894 | [Merge Strings Alternately](../leetcode-solutions/1894-merge-strings-alternately) | Easy |
+| 1934 | [Evaluate the Bracket Pairs of a String](../leetcode-solutions/1934-evaluate-the-bracket-pairs-of-a-string) | Medium |
 | 2001 | [Jump Game VII](../leetcode-solutions/2001-jump-game-vii) | Medium |
 | 2021 | [Remove All Occurrences of a Substring](../leetcode-solutions/2021-remove-all-occurrences-of-a-substring) | Medium |
 | 2099 | [Number of Strings That Appear as Substrings in Word](../leetcode-solutions/2099-number-of-strings-that-appear-as-substrings-in-word) | Easy |

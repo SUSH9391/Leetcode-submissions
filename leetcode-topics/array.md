@@ -1,6 +1,6 @@
 # Array
 
-**Problems solved:** 174
+**Problems solved:** 175
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -114,6 +114,7 @@
 | 1793 | [Minimum Moves to Make Array Complementary](../leetcode-solutions/1793-minimum-moves-to-make-array-complementary) | Medium |
 | 1798 | [Max Number of K-Sum Pairs](../leetcode-solutions/1798-max-number-of-k-sum-pairs) | Medium |
 | 1833 | [Find the Highest Altitude](../leetcode-solutions/1833-find-the-highest-altitude) | Easy |
+| 1934 | [Evaluate the Bracket Pairs of a String](../leetcode-solutions/1934-evaluate-the-bracket-pairs-of-a-string) | Medium |
 | 1956 | [Maximum Element After Decreasing and Rearranging](../leetcode-solutions/1956-maximum-element-after-decreasing-and-rearranging) | Medium |
 | 1968 | [Maximum Building Height](../leetcode-solutions/1968-maximum-building-height) | Hard |
 | 2002 | [Stone Game VIII](../leetcode-solutions/2002-stone-game-viii) | Hard |

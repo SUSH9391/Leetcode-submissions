@@ -1547,6 +1547,26 @@
       }
     ]
   },
+  "1934": {
+    "difficulty": "Medium",
+    "id": 1807,
+    "slug": "evaluate-the-bracket-pairs-of-a-string",
+    "title": "Evaluate the Bracket Pairs of a String",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
   "195": {
     "difficulty": "Easy",
     "id": 195,

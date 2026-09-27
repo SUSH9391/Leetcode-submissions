@@ -4,23 +4,23 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 ## Progress
 
-**Total indexed:** 299
+**Total indexed:** 300
 
 | Difficulty | Solved |
 |---|---:|
 | Easy | 95 |
-| Medium | 160 |
+| Medium | 161 |
 | Hard | 44 |
 
 ## Topics
 
 | Topic | Problems |
 |---|---:|
-| [Array](leetcode-topics/array.md) | 174 |
-| [String](leetcode-topics/string.md) | 66 |
+| [Array](leetcode-topics/array.md) | 175 |
+| [String](leetcode-topics/string.md) | 67 |
 | [Math](leetcode-topics/math.md) | 57 |
 | [Dynamic Programming](leetcode-topics/dynamic-programming.md) | 54 |
-| [Hash Table](leetcode-topics/hash-table.md) | 52 |
+| [Hash Table](leetcode-topics/hash-table.md) | 53 |
 | [Sorting](leetcode-topics/sorting.md) | 40 |
 | [Two Pointers](leetcode-topics/two-pointers.md) | 37 |
 | [Depth-First Search](leetcode-topics/depth-first-search.md) | 33 |

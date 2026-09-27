@@ -1,17 +1,17 @@
 {
-  "total_indexed": 299,
+  "total_indexed": 300,
   "difficulty": {
     "Easy": 95,
-    "Medium": 160,
+    "Medium": 161,
     "Hard": 44
   },
   "topics": {
-    "Array": 174,
-    "Hash Table": 52,
+    "Array": 175,
+    "Hash Table": 53,
     "Linked List": 14,
     "Math": 57,
     "Recursion": 6,
-    "String": 66,
+    "String": 67,
     "Sliding Window": 10,
     "Binary Search": 29,
     "Divide and Conquer": 11,
