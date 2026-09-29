@@ -1,6 +1,6 @@
 # String
 
-**Problems solved:** 67
+**Problems solved:** 68
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -42,6 +42,7 @@
 | 1146 | [Greatest Common Divisor of Strings](../leetcode-solutions/1146-greatest-common-divisor-of-strings) | Easy |
 | 1159 | [Smallest Subsequence of Distinct Characters](../leetcode-solutions/1159-smallest-subsequence-of-distinct-characters) | Medium |
 | 1250 | [Longest Common Subsequence](../leetcode-solutions/1250-longest-common-subsequence) | Medium |
+| 1298 | [Reverse Substrings Between Each Pair of Parentheses](../leetcode-solutions/1298-reverse-substrings-between-each-pair-of-parentheses) | Medium |
 | 1443 | [Minimum Distance to Type a Word Using Two Fingers](../leetcode-solutions/1443-minimum-distance-to-type-a-word-using-two-fingers) | Hard |
 | 1460 | [Number of Substrings Containing All Three Characters](../leetcode-solutions/1460-number-of-substrings-containing-all-three-characters) | Medium |
 | 1567 | [Maximum Number of Vowels in a Substring of Given Length](../leetcode-solutions/1567-maximum-number-of-vowels-in-a-substring-of-given-length) | Medium |

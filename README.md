@@ -4,12 +4,12 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 ## Progress
 
-**Total indexed:** 300
+**Total indexed:** 301
 
 | Difficulty | Solved |
 |---|---:|
 | Easy | 95 |
-| Medium | 161 |
+| Medium | 162 |
 | Hard | 44 |
 
 ## Topics
@@ -17,7 +17,7 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | Topic | Problems |
 |---|---:|
 | [Array](leetcode-topics/array.md) | 175 |
-| [String](leetcode-topics/string.md) | 67 |
+| [String](leetcode-topics/string.md) | 68 |
 | [Math](leetcode-topics/math.md) | 57 |
 | [Dynamic Programming](leetcode-topics/dynamic-programming.md) | 54 |
 | [Hash Table](leetcode-topics/hash-table.md) | 53 |
@@ -28,7 +28,7 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [Greedy](leetcode-topics/greedy.md) | 29 |
 | [Breadth-First Search](leetcode-topics/breadth-first-search.md) | 28 |
 | [Matrix](leetcode-topics/matrix.md) | 23 |
-| [Stack](leetcode-topics/stack.md) | 19 |
+| [Stack](leetcode-topics/stack.md) | 20 |
 | [Tree](leetcode-topics/tree.md) | 18 |
 | [Heap (Priority Queue)](leetcode-topics/heap-priority-queue.md) | 17 |
 | [Binary Tree](leetcode-topics/binary-tree.md) | 16 |
@@ -50,6 +50,7 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [Design](leetcode-topics/design.md) | 5 |
 | [Segment Tree](leetcode-topics/segment-tree.md) | 5 |
 | [Shortest Path](leetcode-topics/shortest-path.md) | 5 |
+| [Bracket Sequences](leetcode-topics/bracket-sequences.md) | 4 |
 | [Euclidean Algorithm](leetcode-topics/euclidean-algorithm.md) | 4 |
 | [Game Theory](leetcode-topics/game-theory.md) | 4 |
 | [Geometry](leetcode-topics/geometry.md) | 4 |
@@ -57,7 +58,6 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [Minimax](leetcode-topics/minimax.md) | 4 |
 | [Trie](leetcode-topics/trie.md) | 4 |
 | [Binary Search Tree](leetcode-topics/binary-search-tree.md) | 3 |
-| [Bracket Sequences](leetcode-topics/bracket-sequences.md) | 3 |
 | [Dijkstra's Algorithm](leetcode-topics/dijkstra-s-algorithm.md) | 3 |
 | [DP on Trees](leetcode-topics/dp-on-trees.md) | 3 |
 | [Knapsack Problem](leetcode-topics/knapsack-problem.md) | 3 |

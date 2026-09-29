@@ -1,6 +1,6 @@
 # Stack
 
-**Problems solved:** 19
+**Problems solved:** 20
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -17,6 +17,7 @@
 | 739 | [Daily Temperatures](../leetcode-solutions/0739-daily-temperatures) | Medium |
 | 883 | [Car Fleet](../leetcode-solutions/0883-car-fleet) | Medium |
 | 1159 | [Smallest Subsequence of Distinct Characters](../leetcode-solutions/1159-smallest-subsequence-of-distinct-characters) | Medium |
+| 1298 | [Reverse Substrings Between Each Pair of Parentheses](../leetcode-solutions/1298-reverse-substrings-between-each-pair-of-parentheses) | Medium |
 | 1552 | [Build an Array With Stack Operations](../leetcode-solutions/1552-build-an-array-with-stack-operations) | Medium |
 | 1570 | [Final Prices With a Special Discount in a Shop](../leetcode-solutions/1570-final-prices-with-a-special-discount-in-a-shop) | Easy |
 | 1756 | [Minimum Deletions to Make String Balanced](../leetcode-solutions/1756-minimum-deletions-to-make-string-balanced) | Medium |

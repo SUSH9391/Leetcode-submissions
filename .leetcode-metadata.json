@@ -491,6 +491,26 @@
       }
     ]
   },
+  "1298": {
+    "difficulty": "Medium",
+    "id": 1190,
+    "slug": "reverse-substrings-between-each-pair-of-parentheses",
+    "title": "Reverse Substrings Between Each Pair of Parentheses",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Bracket Sequences",
+        "slug": "bracket-sequences"
+      }
+    ]
+  },
   "13": {
     "difficulty": "Easy",
     "id": 13,
