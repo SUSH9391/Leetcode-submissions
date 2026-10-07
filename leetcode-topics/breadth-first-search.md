@@ -1,6 +1,6 @@
 # Breadth-First Search
 
-**Problems solved:** 28
+**Problems solved:** 29
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -15,6 +15,7 @@
 | 207 | [Course Schedule](../leetcode-solutions/0207-course-schedule) | Medium |
 | 210 | [Course Schedule II](../leetcode-solutions/0210-course-schedule-ii) | Medium |
 | 226 | [Invert Binary Tree](../leetcode-solutions/0226-invert-binary-tree) | Easy |
+| 301 | [Remove Invalid Parentheses](../leetcode-solutions/0301-remove-invalid-parentheses) | Hard |
 | 322 | [Coin Change](../leetcode-solutions/0322-coin-change) | Medium |
 | 417 | [Pacific Atlantic Water Flow](../leetcode-solutions/0417-pacific-atlantic-water-flow) | Medium |
 | 684 | [Redundant Connection](../leetcode-solutions/0684-redundant-connection) | Medium |

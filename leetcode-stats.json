@@ -1,9 +1,9 @@
 {
-  "total_indexed": 310,
+  "total_indexed": 311,
   "difficulty": {
     "Easy": 96,
     "Medium": 169,
-    "Hard": 45
+    "Hard": 46
   },
   "topics": {
     "Array": 177,
@@ -11,7 +11,7 @@
     "Linked List": 14,
     "Math": 57,
     "Recursion": 6,
-    "String": 74,
+    "String": 75,
     "Sliding Window": 10,
     "Binary Search": 31,
     "Divide and Conquer": 11,
@@ -21,7 +21,7 @@
     "Greedy": 30,
     "Trie": 4,
     "Sorting": 40,
-    "Backtracking": 11,
+    "Backtracking": 12,
     "Stack": 26,
     "Bracket Sequences": 9,
     "String Matching": 2,
@@ -41,7 +41,7 @@
     "Range Minimum/Maximum Query": 1,
     "Tree": 18,
     "Binary Tree": 16,
-    "Breadth-First Search": 28,
+    "Breadth-First Search": 29,
     "DP on Trees": 3,
     "Bidirectional Search": 1,
     "Union-Find": 14,

@@ -2961,6 +2961,26 @@
       }
     ]
   },
+  "301": {
+    "difficulty": "Hard",
+    "id": 301,
+    "slug": "remove-invalid-parentheses",
+    "title": "Remove Invalid Parentheses",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      }
+    ]
+  },
   "31": {
     "difficulty": "Medium",
     "id": 31,

@@ -1,6 +1,6 @@
 # Backtracking
 
-**Problems solved:** 11
+**Problems solved:** 12
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -15,3 +15,4 @@
 | 90 | [Subsets II](../leetcode-solutions/0090-subsets-ii) | Medium |
 | 131 | [Palindrome Partitioning](../leetcode-solutions/0131-palindrome-partitioning) | Medium |
 | 257 | [Binary Tree Paths](../leetcode-solutions/0257-binary-tree-paths) | Easy |
+| 301 | [Remove Invalid Parentheses](../leetcode-solutions/0301-remove-invalid-parentheses) | Hard |

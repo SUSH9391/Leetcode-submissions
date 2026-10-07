@@ -1,6 +1,6 @@
 # String
 
-**Problems solved:** 74
+**Problems solved:** 75
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -29,6 +29,7 @@
 | 151 | [Reverse Words in a String](../leetcode-solutions/0151-reverse-words-in-a-string) | Medium |
 | 242 | [Valid Anagram](../leetcode-solutions/0242-valid-anagram) | Easy |
 | 257 | [Binary Tree Paths](../leetcode-solutions/0257-binary-tree-paths) | Easy |
+| 301 | [Remove Invalid Parentheses](../leetcode-solutions/0301-remove-invalid-parentheses) | Hard |
 | 332 | [Reconstruct Itinerary](../leetcode-solutions/0332-reconstruct-itinerary) | Hard |
 | 344 | [Reverse String](../leetcode-solutions/0344-reverse-string) | Easy |
 | 345 | [Reverse Vowels of a String](../leetcode-solutions/0345-reverse-vowels-of-a-string) | Easy |

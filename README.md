@@ -4,20 +4,20 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 ## Progress
 
-**Total indexed:** 310
+**Total indexed:** 311
 
 | Difficulty | Solved |
 |---|---:|
 | Easy | 96 |
 | Medium | 169 |
-| Hard | 45 |
+| Hard | 46 |
 
 ## Topics
 
 | Topic | Problems |
 |---|---:|
 | [Array](leetcode-topics/array.md) | 177 |
-| [String](leetcode-topics/string.md) | 74 |
+| [String](leetcode-topics/string.md) | 75 |
 | [Math](leetcode-topics/math.md) | 57 |
 | [Dynamic Programming](leetcode-topics/dynamic-programming.md) | 55 |
 | [Hash Table](leetcode-topics/hash-table.md) | 53 |
@@ -26,7 +26,7 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [Depth-First Search](leetcode-topics/depth-first-search.md) | 33 |
 | [Binary Search](leetcode-topics/binary-search.md) | 31 |
 | [Greedy](leetcode-topics/greedy.md) | 30 |
-| [Breadth-First Search](leetcode-topics/breadth-first-search.md) | 28 |
+| [Breadth-First Search](leetcode-topics/breadth-first-search.md) | 29 |
 | [Stack](leetcode-topics/stack.md) | 26 |
 | [Matrix](leetcode-topics/matrix.md) | 23 |
 | [Tree](leetcode-topics/tree.md) | 18 |
@@ -38,7 +38,7 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [Prefix Sum](leetcode-topics/prefix-sum.md) | 15 |
 | [Linked List](leetcode-topics/linked-list.md) | 14 |
 | [Union-Find](leetcode-topics/union-find.md) | 14 |
-| [Backtracking](leetcode-topics/backtracking.md) | 11 |
+| [Backtracking](leetcode-topics/backtracking.md) | 12 |
 | [Counting](leetcode-topics/counting.md) | 11 |
 | [Divide and Conquer](leetcode-topics/divide-and-conquer.md) | 11 |
 | [Enumeration](leetcode-topics/enumeration.md) | 11 |
