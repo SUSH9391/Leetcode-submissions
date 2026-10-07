@@ -1,6 +1,6 @@
 # Two Pointers
 
-**Problems solved:** 37
+**Problems solved:** 39
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -20,6 +20,8 @@
 | 141 | [Linked List Cycle](../leetcode-solutions/0141-linked-list-cycle) | Easy |
 | 143 | [Reorder List](../leetcode-solutions/0143-reorder-list) | Medium |
 | 151 | [Reverse Words in a String](../leetcode-solutions/0151-reverse-words-in-a-string) | Medium |
+| 167 | [Two Sum II - Input Array Is Sorted](../leetcode-solutions/0167-two-sum-ii-input-array-is-sorted) | Medium |
+| 167 | [Two Sum II - Input Array Is Sorted](../leetcode-solutions/0167-two-sum-ii---input-array-is-sorted) | Medium |
 | 234 | [Palindrome Linked List](../leetcode-solutions/0234-palindrome-linked-list) | Easy |
 | 283 | [Move Zeroes](../leetcode-solutions/0283-move-zeroes) | Easy |
 | 287 | [Find the Duplicate Number](../leetcode-solutions/0287-find-the-duplicate-number) | Medium |

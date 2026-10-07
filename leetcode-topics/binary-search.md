@@ -1,6 +1,6 @@
 # Binary Search
 
-**Problems solved:** 29
+**Problems solved:** 31
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -11,6 +11,8 @@
 | 74 | [Search a 2D Matrix](../leetcode-solutions/0074-search-a-2d-matrix) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](../leetcode-solutions/0153-find-minimum-in-rotated-sorted-array) | Medium |
 | 154 | [Find Minimum in Rotated Sorted Array II](../leetcode-solutions/0154-find-minimum-in-rotated-sorted-array-ii) | Hard |
+| 167 | [Two Sum II - Input Array Is Sorted](../leetcode-solutions/0167-two-sum-ii-input-array-is-sorted) | Medium |
+| 167 | [Two Sum II - Input Array Is Sorted](../leetcode-solutions/0167-two-sum-ii---input-array-is-sorted) | Medium |
 | 240 | [Search a 2D Matrix II](../leetcode-solutions/0240-search-a-2d-matrix-ii) | Medium |
 | 287 | [Find the Duplicate Number](../leetcode-solutions/0287-find-the-duplicate-number) | Medium |
 | 300 | [Longest Increasing Subsequence](../leetcode-solutions/0300-longest-increasing-subsequence) | Medium |

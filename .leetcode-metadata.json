@@ -235,6 +235,26 @@
       }
     ]
   },
+  "1111": {
+    "difficulty": "Medium",
+    "id": 1111,
+    "slug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+    "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Bracket Sequences",
+        "slug": "bracket-sequences"
+      }
+    ]
+  },
   "1127": {
     "difficulty": "Easy",
     "id": 1046,
@@ -1243,6 +1263,26 @@
       }
     ]
   },
+  "167": {
+    "difficulty": "Medium",
+    "id": 167,
+    "slug": "two-sum-ii-input-array-is-sorted",
+    "title": "Two Sum II - Input Array Is Sorted",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      }
+    ]
+  },
   "1685": {
     "difficulty": "Hard",
     "id": 1563,
@@ -1376,6 +1416,26 @@
       {
         "name": "Prefix Sum",
         "slug": "prefix-sum"
+      }
+    ]
+  },
+  "1737": {
+    "difficulty": "Easy",
+    "id": 1614,
+    "slug": "maximum-nesting-depth-of-the-parentheses",
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Bracket Sequences",
+        "slug": "bracket-sequences"
       }
     ]
   },
@@ -2933,6 +2993,30 @@
       }
     ]
   },
+  "32": {
+    "difficulty": "Hard",
+    "id": 32,
+    "slug": "longest-valid-parentheses",
+    "title": "Longest Valid Parentheses",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Bracket Sequences",
+        "slug": "bracket-sequences"
+      }
+    ]
+  },
   "3219": {
     "difficulty": "Medium",
     "id": 2948,
@@ -4377,6 +4461,13 @@
       }
     ]
   },
+  "4071": {
+    "difficulty": "Medium",
+    "id": 4071,
+    "slug": "minimum-rotations-to-dial-a-number-ii",
+    "title": "Minimum Rotations to Dial a Number II",
+    "topics": []
+  },
   "4074": {
     "difficulty": "Medium",
     "id": 3737,
@@ -5694,6 +5785,22 @@
       }
     ]
   },
+  "71": {
+    "difficulty": "Medium",
+    "id": 71,
+    "slug": "simplify-path",
+    "title": "Simplify Path",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ]
+  },
   "739": {
     "difficulty": "Medium",
     "id": 739,
@@ -6062,6 +6169,26 @@
       }
     ]
   },
+  "856": {
+    "difficulty": "Medium",
+    "id": 856,
+    "slug": "score-of-parentheses",
+    "title": "Score of Parentheses",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Bracket Sequences",
+        "slug": "bracket-sequences"
+      }
+    ]
+  },
   "864": {
     "difficulty": "Medium",
     "id": 835,
@@ -6275,6 +6402,30 @@
       {
         "name": "Dijkstra's Algorithm",
         "slug": "dijkstra"
+      }
+    ]
+  },
+  "921": {
+    "difficulty": "Medium",
+    "id": 921,
+    "slug": "minimum-add-to-make-parentheses-valid",
+    "title": "Minimum Add to Make Parentheses Valid",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Bracket Sequences",
+        "slug": "bracket-sequences"
       }
     ]
   },

@@ -1,6 +1,6 @@
 # Greedy
 
-**Problems solved:** 29
+**Problems solved:** 30
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -15,6 +15,7 @@
 | 678 | [Valid Parenthesis String](../leetcode-solutions/0678-valid-parenthesis-string) | Medium |
 | 768 | [Partition Labels](../leetcode-solutions/0768-partition-labels) | Medium |
 | 876 | [Hand of Straights](../leetcode-solutions/0876-hand-of-straights) | Medium |
+| 921 | [Minimum Add to Make Parentheses Valid](../leetcode-solutions/0921-minimum-add-to-make-parentheses-valid) | Medium |
 | 1159 | [Smallest Subsequence of Distinct Characters](../leetcode-solutions/1159-smallest-subsequence-of-distinct-characters) | Medium |
 | 1487 | [Cinema Seat Allocation](../leetcode-solutions/1487-cinema-seat-allocation) | Medium |
 | 1644 | [Maximum Number of Non-Overlapping Substrings](../leetcode-solutions/1644-maximum-number-of-non-overlapping-substrings) | Hard |

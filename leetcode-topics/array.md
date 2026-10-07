@@ -1,6 +1,6 @@
 # Array
 
-**Problems solved:** 175
+**Problems solved:** 177
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -48,6 +48,8 @@
 | 152 | [Maximum Product Subarray](../leetcode-solutions/0152-maximum-product-subarray) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](../leetcode-solutions/0153-find-minimum-in-rotated-sorted-array) | Medium |
 | 154 | [Find Minimum in Rotated Sorted Array II](../leetcode-solutions/0154-find-minimum-in-rotated-sorted-array-ii) | Hard |
+| 167 | [Two Sum II - Input Array Is Sorted](../leetcode-solutions/0167-two-sum-ii-input-array-is-sorted) | Medium |
+| 167 | [Two Sum II - Input Array Is Sorted](../leetcode-solutions/0167-two-sum-ii---input-array-is-sorted) | Medium |
 | 169 | [Majority Element](../leetcode-solutions/0169-majority-element) | Easy |
 | 198 | [House Robber](../leetcode-solutions/0198-house-robber) | Medium |
 | 200 | [Number of Islands](../leetcode-solutions/0200-number-of-islands) | Medium |

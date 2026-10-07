@@ -1,6 +1,6 @@
 # String
 
-**Problems solved:** 68
+**Problems solved:** 74
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -13,11 +13,13 @@
 | 20 | [Valid Parentheses](../leetcode-solutions/0020-valid-parentheses) | Easy |
 | 22 | [Generate Parentheses](../leetcode-solutions/0022-generate-parentheses) | Medium |
 | 28 | [Find the Index of the First Occurrence in a String](../leetcode-solutions/0028-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
+| 32 | [Longest Valid Parentheses](../leetcode-solutions/0032-longest-valid-parentheses) | Hard |
 | 43 | [Multiply Strings](../leetcode-solutions/0043-multiply-strings) | Medium |
 | 49 | [Group Anagrams](../leetcode-solutions/0049-group-anagrams) | Medium |
 | 58 | [Length of Last Word](../leetcode-solutions/0058-length-of-last-word) | Easy |
 | 67 | [Add Binary](../leetcode-solutions/0067-add-binary) | Easy |
 | 68 | [Text Justification](../leetcode-solutions/0068-text-justification) | Hard |
+| 71 | [Simplify Path](../leetcode-solutions/0071-simplify-path) | Medium |
 | 79 | [Word Search](../leetcode-solutions/0079-word-search) | Medium |
 | 91 | [Decode Ways](../leetcode-solutions/0091-decode-ways) | Medium |
 | 125 | [Valid Palindrome](../leetcode-solutions/0125-valid-palindrome) | Easy |
@@ -38,7 +40,10 @@
 | 678 | [Valid Parenthesis String](../leetcode-solutions/0678-valid-parenthesis-string) | Medium |
 | 768 | [Partition Labels](../leetcode-solutions/0768-partition-labels) | Medium |
 | 812 | [Rotate String](../leetcode-solutions/0812-rotate-string) | Easy |
+| 856 | [Score of Parentheses](../leetcode-solutions/0856-score-of-parentheses) | Medium |
+| 921 | [Minimum Add to Make Parentheses Valid](../leetcode-solutions/0921-minimum-add-to-make-parentheses-valid) | Medium |
 | 977 | [Distinct Subsequences II](../leetcode-solutions/0977-distinct-subsequences-ii) | Hard |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](../leetcode-solutions/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | Medium |
 | 1146 | [Greatest Common Divisor of Strings](../leetcode-solutions/1146-greatest-common-divisor-of-strings) | Easy |
 | 1159 | [Smallest Subsequence of Distinct Characters](../leetcode-solutions/1159-smallest-subsequence-of-distinct-characters) | Medium |
 | 1250 | [Longest Common Subsequence](../leetcode-solutions/1250-longest-common-subsequence) | Medium |
@@ -47,6 +52,7 @@
 | 1460 | [Number of Substrings Containing All Three Characters](../leetcode-solutions/1460-number-of-substrings-containing-all-three-characters) | Medium |
 | 1567 | [Maximum Number of Vowels in a Substring of Given Length](../leetcode-solutions/1567-maximum-number-of-vowels-in-a-substring-of-given-length) | Medium |
 | 1644 | [Maximum Number of Non-Overlapping Substrings](../leetcode-solutions/1644-maximum-number-of-non-overlapping-substrings) | Hard |
+| 1737 | [Maximum Nesting Depth of the Parentheses](../leetcode-solutions/1737-maximum-nesting-depth-of-the-parentheses) | Easy |
 | 1756 | [Minimum Deletions to Make String Balanced](../leetcode-solutions/1756-minimum-deletions-to-make-string-balanced) | Medium |
 | 1894 | [Merge Strings Alternately](../leetcode-solutions/1894-merge-strings-alternately) | Easy |
 | 1934 | [Evaluate the Bracket Pairs of a String](../leetcode-solutions/1934-evaluate-the-bracket-pairs-of-a-string) | Medium |

@@ -4,31 +4,31 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 ## Progress
 
-**Total indexed:** 301
+**Total indexed:** 310
 
 | Difficulty | Solved |
 |---|---:|
-| Easy | 95 |
-| Medium | 162 |
-| Hard | 44 |
+| Easy | 96 |
+| Medium | 169 |
+| Hard | 45 |
 
 ## Topics
 
 | Topic | Problems |
 |---|---:|
-| [Array](leetcode-topics/array.md) | 175 |
-| [String](leetcode-topics/string.md) | 68 |
+| [Array](leetcode-topics/array.md) | 177 |
+| [String](leetcode-topics/string.md) | 74 |
 | [Math](leetcode-topics/math.md) | 57 |
-| [Dynamic Programming](leetcode-topics/dynamic-programming.md) | 54 |
+| [Dynamic Programming](leetcode-topics/dynamic-programming.md) | 55 |
 | [Hash Table](leetcode-topics/hash-table.md) | 53 |
 | [Sorting](leetcode-topics/sorting.md) | 40 |
-| [Two Pointers](leetcode-topics/two-pointers.md) | 37 |
+| [Two Pointers](leetcode-topics/two-pointers.md) | 39 |
 | [Depth-First Search](leetcode-topics/depth-first-search.md) | 33 |
-| [Binary Search](leetcode-topics/binary-search.md) | 29 |
-| [Greedy](leetcode-topics/greedy.md) | 29 |
+| [Binary Search](leetcode-topics/binary-search.md) | 31 |
+| [Greedy](leetcode-topics/greedy.md) | 30 |
 | [Breadth-First Search](leetcode-topics/breadth-first-search.md) | 28 |
+| [Stack](leetcode-topics/stack.md) | 26 |
 | [Matrix](leetcode-topics/matrix.md) | 23 |
-| [Stack](leetcode-topics/stack.md) | 20 |
 | [Tree](leetcode-topics/tree.md) | 18 |
 | [Heap (Priority Queue)](leetcode-topics/heap-priority-queue.md) | 17 |
 | [Binary Tree](leetcode-topics/binary-tree.md) | 16 |
@@ -43,6 +43,7 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [Divide and Conquer](leetcode-topics/divide-and-conquer.md) | 11 |
 | [Enumeration](leetcode-topics/enumeration.md) | 11 |
 | [Sliding Window](leetcode-topics/sliding-window.md) | 10 |
+| [Bracket Sequences](leetcode-topics/bracket-sequences.md) | 9 |
 | [Number Theory](leetcode-topics/number-theory.md) | 8 |
 | [Monotonic Stack](leetcode-topics/monotonic-stack.md) | 7 |
 | [Recursion](leetcode-topics/recursion.md) | 6 |
@@ -50,7 +51,6 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [Design](leetcode-topics/design.md) | 5 |
 | [Segment Tree](leetcode-topics/segment-tree.md) | 5 |
 | [Shortest Path](leetcode-topics/shortest-path.md) | 5 |
-| [Bracket Sequences](leetcode-topics/bracket-sequences.md) | 4 |
 | [Euclidean Algorithm](leetcode-topics/euclidean-algorithm.md) | 4 |
 | [Game Theory](leetcode-topics/game-theory.md) | 4 |
 | [Geometry](leetcode-topics/geometry.md) | 4 |

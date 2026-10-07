@@ -1,11 +1,12 @@
 # Dynamic Programming
 
-**Problems solved:** 54
+**Problems solved:** 55
 
 | # | Problem | Difficulty |
 |---:|---|---|
 | 5 | [Longest Palindromic Substring](../leetcode-solutions/0005-longest-palindromic-substring) | Medium |
 | 22 | [Generate Parentheses](../leetcode-solutions/0022-generate-parentheses) | Medium |
+| 32 | [Longest Valid Parentheses](../leetcode-solutions/0032-longest-valid-parentheses) | Hard |
 | 42 | [Trapping Rain Water](../leetcode-solutions/0042-trapping-rain-water) | Hard |
 | 45 | [Jump Game II](../leetcode-solutions/0045-jump-game-ii) | Medium |
 | 53 | [Maximum Subarray](../leetcode-solutions/0053-maximum-subarray) | Medium |
