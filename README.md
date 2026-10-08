@@ -4,11 +4,11 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 ## Progress
 
-**Total indexed:** 311
+**Total indexed:** 312
 
 | Difficulty | Solved |
 |---|---:|
-| Easy | 96 |
+| Easy | 97 |
 | Medium | 169 |
 | Hard | 46 |
 
@@ -17,7 +17,7 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | Topic | Problems |
 |---|---:|
 | [Array](leetcode-topics/array.md) | 177 |
-| [String](leetcode-topics/string.md) | 75 |
+| [String](leetcode-topics/string.md) | 76 |
 | [Math](leetcode-topics/math.md) | 57 |
 | [Dynamic Programming](leetcode-topics/dynamic-programming.md) | 55 |
 | [Hash Table](leetcode-topics/hash-table.md) | 53 |
@@ -27,7 +27,7 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [Binary Search](leetcode-topics/binary-search.md) | 31 |
 | [Greedy](leetcode-topics/greedy.md) | 30 |
 | [Breadth-First Search](leetcode-topics/breadth-first-search.md) | 29 |
-| [Stack](leetcode-topics/stack.md) | 26 |
+| [Stack](leetcode-topics/stack.md) | 27 |
 | [Matrix](leetcode-topics/matrix.md) | 23 |
 | [Tree](leetcode-topics/tree.md) | 18 |
 | [Heap (Priority Queue)](leetcode-topics/heap-priority-queue.md) | 17 |
@@ -42,8 +42,8 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [Counting](leetcode-topics/counting.md) | 11 |
 | [Divide and Conquer](leetcode-topics/divide-and-conquer.md) | 11 |
 | [Enumeration](leetcode-topics/enumeration.md) | 11 |
+| [Bracket Sequences](leetcode-topics/bracket-sequences.md) | 10 |
 | [Sliding Window](leetcode-topics/sliding-window.md) | 10 |
-| [Bracket Sequences](leetcode-topics/bracket-sequences.md) | 9 |
 | [Number Theory](leetcode-topics/number-theory.md) | 8 |
 | [Monotonic Stack](leetcode-topics/monotonic-stack.md) | 7 |
 | [Recursion](leetcode-topics/recursion.md) | 6 |

@@ -1,7 +1,7 @@
 {
-  "total_indexed": 311,
+  "total_indexed": 312,
   "difficulty": {
-    "Easy": 96,
+    "Easy": 97,
     "Medium": 169,
     "Hard": 46
   },
@@ -11,7 +11,7 @@
     "Linked List": 14,
     "Math": 57,
     "Recursion": 6,
-    "String": 75,
+    "String": 76,
     "Sliding Window": 10,
     "Binary Search": 31,
     "Divide and Conquer": 11,
@@ -22,8 +22,8 @@
     "Trie": 4,
     "Sorting": 40,
     "Backtracking": 12,
-    "Stack": 26,
-    "Bracket Sequences": 9,
+    "Stack": 27,
+    "Bracket Sequences": 10,
     "String Matching": 2,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,

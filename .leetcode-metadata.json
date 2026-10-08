@@ -123,6 +123,26 @@
       }
     ]
   },
+  "1021": {
+    "difficulty": "Easy",
+    "id": 1021,
+    "slug": "remove-outermost-parentheses",
+    "title": "Remove Outermost Parentheses",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Bracket Sequences",
+        "slug": "bracket-sequences"
+      }
+    ]
+  },
   "1036": {
     "difficulty": "Medium",
     "id": 994,

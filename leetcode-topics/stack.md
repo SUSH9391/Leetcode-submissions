@@ -1,6 +1,6 @@
 # Stack
 
-**Problems solved:** 26
+**Problems solved:** 27
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -20,6 +20,7 @@
 | 856 | [Score of Parentheses](../leetcode-solutions/0856-score-of-parentheses) | Medium |
 | 883 | [Car Fleet](../leetcode-solutions/0883-car-fleet) | Medium |
 | 921 | [Minimum Add to Make Parentheses Valid](../leetcode-solutions/0921-minimum-add-to-make-parentheses-valid) | Medium |
+| 1021 | [Remove Outermost Parentheses](../leetcode-solutions/1021-remove-outermost-parentheses) | Easy |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](../leetcode-solutions/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | Medium |
 | 1159 | [Smallest Subsequence of Distinct Characters](../leetcode-solutions/1159-smallest-subsequence-of-distinct-characters) | Medium |
 | 1298 | [Reverse Substrings Between Each Pair of Parentheses](../leetcode-solutions/1298-reverse-substrings-between-each-pair-of-parentheses) | Medium |
