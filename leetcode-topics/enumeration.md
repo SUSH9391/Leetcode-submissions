@@ -1,11 +1,12 @@
 # Enumeration
 
-**Problems solved:** 11
+**Problems solved:** 12
 
 | # | Problem | Difficulty |
 |---:|---|---|
 | 204 | [Count Primes](../leetcode-solutions/0204-count-primes) | Medium |
 | 1212 | [Sequential Digits](../leetcode-solutions/1212-sequential-digits) | Medium |
+| 2778 | [Sum of Squares of Special Elements ](../leetcode-solutions/2778-sum-of-squares-of-special-elements) | Easy |
 | 3299 | [Find the Maximum Number of Elements in Subset](../leetcode-solutions/3299-find-the-maximum-number-of-elements-in-subset) | Medium |
 | 3626 | [Smallest Divisible Digit Product I](../leetcode-solutions/3626-smallest-divisible-digit-product-i) | Easy |
 | 3799 | [Unique 3-Digit Even Numbers](../leetcode-solutions/3799-unique-3-digit-even-numbers) | Easy |

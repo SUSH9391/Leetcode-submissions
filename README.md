@@ -4,11 +4,11 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 ## Progress
 
-**Total indexed:** 312
+**Total indexed:** 313
 
 | Difficulty | Solved |
 |---|---:|
-| Easy | 97 |
+| Easy | 98 |
 | Medium | 169 |
 | Hard | 46 |
 
@@ -16,7 +16,7 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 | Topic | Problems |
 |---|---:|
-| [Array](leetcode-topics/array.md) | 177 |
+| [Array](leetcode-topics/array.md) | 178 |
 | [String](leetcode-topics/string.md) | 76 |
 | [Math](leetcode-topics/math.md) | 57 |
 | [Dynamic Programming](leetcode-topics/dynamic-programming.md) | 55 |
@@ -39,9 +39,9 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [Linked List](leetcode-topics/linked-list.md) | 14 |
 | [Union-Find](leetcode-topics/union-find.md) | 14 |
 | [Backtracking](leetcode-topics/backtracking.md) | 12 |
+| [Enumeration](leetcode-topics/enumeration.md) | 12 |
 | [Counting](leetcode-topics/counting.md) | 11 |
 | [Divide and Conquer](leetcode-topics/divide-and-conquer.md) | 11 |
-| [Enumeration](leetcode-topics/enumeration.md) | 11 |
 | [Bracket Sequences](leetcode-topics/bracket-sequences.md) | 10 |
 | [Sliding Window](leetcode-topics/sliding-window.md) | 10 |
 | [Number Theory](leetcode-topics/number-theory.md) | 8 |

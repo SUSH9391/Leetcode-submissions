@@ -1,6 +1,6 @@
 # Array
 
-**Problems solved:** 177
+**Problems solved:** 178
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -134,6 +134,7 @@
 | 2634 | [Minimum Common Value](../leetcode-solutions/2634-minimum-common-value) | Easy |
 | 2639 | [Separate the Digits in an Array](../leetcode-solutions/2639-separate-the-digits-in-an-array) | Easy |
 | 2766 | [Find the Prefix Common Array of Two Arrays](../leetcode-solutions/2766-find-the-prefix-common-array-of-two-arrays) | Medium |
+| 2778 | [Sum of Squares of Special Elements ](../leetcode-solutions/2778-sum-of-squares-of-special-elements) | Easy |
 | 2914 | [Find the Safest Path in a Grid](../leetcode-solutions/2914-find-the-safest-path-in-a-grid) | Medium |
 | 3219 | [Make Lexicographically Smallest Array by Swapping Elements](../leetcode-solutions/3219-make-lexicographically-smallest-array-by-swapping-elements) | Medium |
 | 3299 | [Find the Maximum Number of Elements in Subset](../leetcode-solutions/3299-find-the-maximum-number-of-elements-in-subset) | Medium |

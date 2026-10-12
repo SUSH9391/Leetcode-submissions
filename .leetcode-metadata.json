@@ -2766,6 +2766,22 @@
       }
     ]
   },
+  "2778": {
+    "difficulty": "Easy",
+    "id": 2778,
+    "slug": "sum-of-squares-of-special-elements",
+    "title": "Sum of Squares of Special Elements ",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
   "2793": {
     "difficulty": "Medium",
     "id": 2685,

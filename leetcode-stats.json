@@ -1,12 +1,12 @@
 {
-  "total_indexed": 312,
+  "total_indexed": 313,
   "difficulty": {
-    "Easy": 97,
+    "Easy": 98,
     "Medium": 169,
     "Hard": 46
   },
   "topics": {
-    "Array": 177,
+    "Array": 178,
     "Hash Table": 53,
     "Linked List": 14,
     "Math": 57,
@@ -52,7 +52,7 @@
     "Counting": 11,
     "Boyer\u2013Moore Majority Vote Algorithm": 2,
     "Shell": 2,
-    "Enumeration": 11,
+    "Enumeration": 12,
     "Number Theory": 8,
     "Primality Test": 1,
     "Sieve Theory": 1,
