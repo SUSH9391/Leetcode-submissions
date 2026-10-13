@@ -4,23 +4,23 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 ## Progress
 
-**Total indexed:** 313
+**Total indexed:** 314
 
 | Difficulty | Solved |
 |---|---:|
 | Easy | 98 |
 | Medium | 169 |
-| Hard | 46 |
+| Hard | 47 |
 
 ## Topics
 
 | Topic | Problems |
 |---|---:|
 | [Array](leetcode-topics/array.md) | 178 |
-| [String](leetcode-topics/string.md) | 76 |
+| [String](leetcode-topics/string.md) | 77 |
 | [Math](leetcode-topics/math.md) | 57 |
 | [Dynamic Programming](leetcode-topics/dynamic-programming.md) | 55 |
-| [Hash Table](leetcode-topics/hash-table.md) | 53 |
+| [Hash Table](leetcode-topics/hash-table.md) | 54 |
 | [Sorting](leetcode-topics/sorting.md) | 40 |
 | [Two Pointers](leetcode-topics/two-pointers.md) | 39 |
 | [Depth-First Search](leetcode-topics/depth-first-search.md) | 33 |
@@ -42,8 +42,8 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [Enumeration](leetcode-topics/enumeration.md) | 12 |
 | [Counting](leetcode-topics/counting.md) | 11 |
 | [Divide and Conquer](leetcode-topics/divide-and-conquer.md) | 11 |
+| [Sliding Window](leetcode-topics/sliding-window.md) | 11 |
 | [Bracket Sequences](leetcode-topics/bracket-sequences.md) | 10 |
-| [Sliding Window](leetcode-topics/sliding-window.md) | 10 |
 | [Number Theory](leetcode-topics/number-theory.md) | 8 |
 | [Monotonic Stack](leetcode-topics/monotonic-stack.md) | 7 |
 | [Recursion](leetcode-topics/recursion.md) | 6 |

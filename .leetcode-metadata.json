@@ -5945,6 +5945,26 @@
       }
     ]
   },
+  "76": {
+    "difficulty": "Hard",
+    "id": 76,
+    "slug": "minimum-window-substring",
+    "title": "Minimum Window Substring",
+    "topics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
   "768": {
     "difficulty": "Medium",
     "id": 763,

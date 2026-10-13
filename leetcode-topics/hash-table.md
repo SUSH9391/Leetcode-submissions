@@ -1,6 +1,6 @@
 # Hash Table
 
-**Problems solved:** 53
+**Problems solved:** 54
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -10,6 +10,7 @@
 | 17 | [Letter Combinations of a Phone Number](../leetcode-solutions/0017-letter-combinations-of-a-phone-number) | Medium |
 | 36 | [Valid Sudoku](../leetcode-solutions/0036-valid-sudoku) | Medium |
 | 49 | [Group Anagrams](../leetcode-solutions/0049-group-anagrams) | Medium |
+| 76 | [Minimum Window Substring](../leetcode-solutions/0076-minimum-window-substring) | Hard |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](../leetcode-solutions/0105-construct-binary-tree-from-preorder-and-inorder-traversal) | Medium |
 | 127 | [Word Ladder](../leetcode-solutions/0127-word-ladder) | Hard |
 | 128 | [Longest Consecutive Sequence](../leetcode-solutions/0128-longest-consecutive-sequence) | Medium |

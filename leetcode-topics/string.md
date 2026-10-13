@@ -1,6 +1,6 @@
 # String
 
-**Problems solved:** 76
+**Problems solved:** 77
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -20,6 +20,7 @@
 | 67 | [Add Binary](../leetcode-solutions/0067-add-binary) | Easy |
 | 68 | [Text Justification](../leetcode-solutions/0068-text-justification) | Hard |
 | 71 | [Simplify Path](../leetcode-solutions/0071-simplify-path) | Medium |
+| 76 | [Minimum Window Substring](../leetcode-solutions/0076-minimum-window-substring) | Hard |
 | 79 | [Word Search](../leetcode-solutions/0079-word-search) | Medium |
 | 91 | [Decode Ways](../leetcode-solutions/0091-decode-ways) | Medium |
 | 125 | [Valid Palindrome](../leetcode-solutions/0125-valid-palindrome) | Easy |
