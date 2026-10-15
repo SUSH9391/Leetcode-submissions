@@ -1,6 +1,6 @@
 # Hash Table
 
-**Problems solved:** 54
+**Problems solved:** 55
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -42,6 +42,7 @@
 | 1934 | [Evaluate the Bracket Pairs of a String](../leetcode-solutions/1934-evaluate-the-bracket-pairs-of-a-string) | Medium |
 | 2634 | [Minimum Common Value](../leetcode-solutions/2634-minimum-common-value) | Easy |
 | 2766 | [Find the Prefix Common Array of Two Arrays](../leetcode-solutions/2766-find-the-prefix-common-array-of-two-arrays) | Medium |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](../leetcode-solutions/2913-subarrays-distinct-element-sum-of-squares-i) | Easy |
 | 3276 | [Minimum Number of Pushes to Type Word II](../leetcode-solutions/3276-minimum-number-of-pushes-to-type-word-ii) | Medium |
 | 3299 | [Find the Maximum Number of Elements in Subset](../leetcode-solutions/3299-find-the-maximum-number-of-elements-in-subset) | Medium |
 | 3329 | [Find the Length of the Longest Common Prefix](../leetcode-solutions/3329-find-the-length-of-the-longest-common-prefix) | Medium |

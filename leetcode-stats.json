@@ -1,13 +1,13 @@
 {
-  "total_indexed": 314,
+  "total_indexed": 316,
   "difficulty": {
-    "Easy": 98,
+    "Easy": 100,
     "Medium": 169,
     "Hard": 47
   },
   "topics": {
-    "Array": 178,
-    "Hash Table": 54,
+    "Array": 180,
+    "Hash Table": 55,
     "Linked List": 14,
     "Math": 57,
     "Recursion": 6,
@@ -18,7 +18,7 @@
     "Two Pointers": 39,
     "Dynamic Programming": 55,
     "Manacher": 1,
-    "Greedy": 30,
+    "Greedy": 31,
     "Trie": 4,
     "Sorting": 40,
     "Backtracking": 12,
@@ -93,8 +93,9 @@
     "Kruskal's Algorithm": 1,
     "Bor\u016fvka's Algorithm": 1,
     "Nim Game": 1,
-    "Segment Tree": 5,
+    "Segment Tree": 6,
     "Ordered Set": 1,
+    "Binary Indexed Tree": 1,
     "Bitmask": 1,
     "Merge Sort": 2
   }

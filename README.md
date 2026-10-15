@@ -4,11 +4,11 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 ## Progress
 
-**Total indexed:** 314
+**Total indexed:** 316
 
 | Difficulty | Solved |
 |---|---:|
-| Easy | 98 |
+| Easy | 100 |
 | Medium | 169 |
 | Hard | 47 |
 
@@ -16,16 +16,16 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 | Topic | Problems |
 |---|---:|
-| [Array](leetcode-topics/array.md) | 178 |
+| [Array](leetcode-topics/array.md) | 180 |
 | [String](leetcode-topics/string.md) | 77 |
 | [Math](leetcode-topics/math.md) | 57 |
 | [Dynamic Programming](leetcode-topics/dynamic-programming.md) | 55 |
-| [Hash Table](leetcode-topics/hash-table.md) | 54 |
+| [Hash Table](leetcode-topics/hash-table.md) | 55 |
 | [Sorting](leetcode-topics/sorting.md) | 40 |
 | [Two Pointers](leetcode-topics/two-pointers.md) | 39 |
 | [Depth-First Search](leetcode-topics/depth-first-search.md) | 33 |
 | [Binary Search](leetcode-topics/binary-search.md) | 31 |
-| [Greedy](leetcode-topics/greedy.md) | 30 |
+| [Greedy](leetcode-topics/greedy.md) | 31 |
 | [Breadth-First Search](leetcode-topics/breadth-first-search.md) | 29 |
 | [Stack](leetcode-topics/stack.md) | 27 |
 | [Matrix](leetcode-topics/matrix.md) | 23 |
@@ -47,9 +47,9 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [Number Theory](leetcode-topics/number-theory.md) | 8 |
 | [Monotonic Stack](leetcode-topics/monotonic-stack.md) | 7 |
 | [Recursion](leetcode-topics/recursion.md) | 6 |
+| [Segment Tree](leetcode-topics/segment-tree.md) | 6 |
 | [Combinatorics](leetcode-topics/combinatorics.md) | 5 |
 | [Design](leetcode-topics/design.md) | 5 |
-| [Segment Tree](leetcode-topics/segment-tree.md) | 5 |
 | [Shortest Path](leetcode-topics/shortest-path.md) | 5 |
 | [Euclidean Algorithm](leetcode-topics/euclidean-algorithm.md) | 4 |
 | [Game Theory](leetcode-topics/game-theory.md) | 4 |
@@ -76,6 +76,7 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [String Matching](leetcode-topics/string-matching.md) | 2 |
 | [Algorithm X](leetcode-topics/algorithm-x.md) | 1 |
 | [Bidirectional Search](leetcode-topics/bidirectional-search.md) | 1 |
+| [Binary Indexed Tree](leetcode-topics/binary-indexed-tree.md) | 1 |
 | [Binary Lifting](leetcode-topics/binary-lifting.md) | 1 |
 | [Bitmask](leetcode-topics/bitmask.md) | 1 |
 | [Borůvka's Algorithm](leetcode-topics/bor-vka-s-algorithm.md) | 1 |

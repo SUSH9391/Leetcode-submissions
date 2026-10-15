@@ -1,6 +1,6 @@
 # Greedy
 
-**Problems solved:** 30
+**Problems solved:** 31
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -14,6 +14,7 @@
 | 621 | [Task Scheduler](../leetcode-solutions/0621-task-scheduler) | Medium |
 | 678 | [Valid Parenthesis String](../leetcode-solutions/0678-valid-parenthesis-string) | Medium |
 | 768 | [Partition Labels](../leetcode-solutions/0768-partition-labels) | Medium |
+| 860 | [Lemonade Change](../leetcode-solutions/0860-lemonade-change) | Easy |
 | 876 | [Hand of Straights](../leetcode-solutions/0876-hand-of-straights) | Medium |
 | 921 | [Minimum Add to Make Parentheses Valid](../leetcode-solutions/0921-minimum-add-to-make-parentheses-valid) | Medium |
 | 1159 | [Smallest Subsequence of Distinct Characters](../leetcode-solutions/1159-smallest-subsequence-of-distinct-characters) | Medium |

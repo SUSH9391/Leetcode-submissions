@@ -1,6 +1,6 @@
 # Array
 
-**Problems solved:** 178
+**Problems solved:** 180
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -85,6 +85,7 @@
 | 747 | [Min Cost Climbing Stairs](../leetcode-solutions/0747-min-cost-climbing-stairs) | Easy |
 | 792 | [Binary Search](../leetcode-solutions/0792-binary-search) | Easy |
 | 794 | [Swim in Rising Water](../leetcode-solutions/0794-swim-in-rising-water) | Hard |
+| 860 | [Lemonade Change](../leetcode-solutions/0860-lemonade-change) | Easy |
 | 864 | [Image Overlap](../leetcode-solutions/0864-image-overlap) | Medium |
 | 876 | [Hand of Straights](../leetcode-solutions/0876-hand-of-straights) | Medium |
 | 882 | [Peak Index in a Mountain Array](../leetcode-solutions/0882-peak-index-in-a-mountain-array) | Medium |
@@ -135,6 +136,7 @@
 | 2639 | [Separate the Digits in an Array](../leetcode-solutions/2639-separate-the-digits-in-an-array) | Easy |
 | 2766 | [Find the Prefix Common Array of Two Arrays](../leetcode-solutions/2766-find-the-prefix-common-array-of-two-arrays) | Medium |
 | 2778 | [Sum of Squares of Special Elements ](../leetcode-solutions/2778-sum-of-squares-of-special-elements) | Easy |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](../leetcode-solutions/2913-subarrays-distinct-element-sum-of-squares-i) | Easy |
 | 2914 | [Find the Safest Path in a Grid](../leetcode-solutions/2914-find-the-safest-path-in-a-grid) | Medium |
 | 3219 | [Make Lexicographically Smallest Array by Swapping Elements](../leetcode-solutions/3219-make-lexicographically-smallest-array-by-swapping-elements) | Medium |
 | 3299 | [Find the Maximum Number of Elements in Subset](../leetcode-solutions/3299-find-the-maximum-number-of-elements-in-subset) | Medium |

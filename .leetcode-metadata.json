@@ -2893,6 +2893,30 @@
       }
     ]
   },
+  "2913": {
+    "difficulty": "Easy",
+    "id": 2913,
+    "slug": "subarrays-distinct-element-sum-of-squares-i",
+    "title": "Subarrays Distinct Element Sum of Squares I",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ]
+  },
   "2914": {
     "difficulty": "Medium",
     "id": 2812,
@@ -6262,6 +6286,22 @@
       {
         "name": "Bracket Sequences",
         "slug": "bracket-sequences"
+      }
+    ]
+  },
+  "860": {
+    "difficulty": "Easy",
+    "id": 860,
+    "slug": "lemonade-change",
+    "title": "Lemonade Change",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
       }
     ]
   },
