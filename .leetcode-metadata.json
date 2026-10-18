@@ -4632,6 +4632,27 @@
       }
     ]
   },
+  "4083": {
+    "difficulty": "Easy",
+    "id": 4083,
+    "slug": "minimum-deletions-to-make-array-sharp",
+    "title": "Minimum Deletions to Make Array Sharp",
+    "topics": []
+  },
+  "4084": {
+    "difficulty": "Medium",
+    "id": 4084,
+    "slug": "last-visited-cell-in-a-directional-grid",
+    "title": "Last Visited Cell in a Directional Grid",
+    "topics": []
+  },
+  "4085": {
+    "difficulty": "Medium",
+    "id": 4085,
+    "slug": "find-root-of-a-colored-tree",
+    "title": "Find Root of a Colored Tree",
+    "topics": []
+  },
   "4119": {
     "difficulty": "Medium",
     "id": 3741,

@@ -4,12 +4,12 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 ## Progress
 
-**Total indexed:** 316
+**Total indexed:** 319
 
 | Difficulty | Solved |
 |---|---:|
-| Easy | 100 |
-| Medium | 169 |
+| Easy | 101 |
+| Medium | 171 |
 | Hard | 47 |
 
 ## Topics
