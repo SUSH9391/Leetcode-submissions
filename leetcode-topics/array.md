@@ -1,6 +1,6 @@
 # Array
 
-**Problems solved:** 180
+**Problems solved:** 181
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -48,8 +48,8 @@
 | 152 | [Maximum Product Subarray](../leetcode-solutions/0152-maximum-product-subarray) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](../leetcode-solutions/0153-find-minimum-in-rotated-sorted-array) | Medium |
 | 154 | [Find Minimum in Rotated Sorted Array II](../leetcode-solutions/0154-find-minimum-in-rotated-sorted-array-ii) | Hard |
-| 167 | [Two Sum II - Input Array Is Sorted](../leetcode-solutions/0167-two-sum-ii-input-array-is-sorted) | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](../leetcode-solutions/0167-two-sum-ii---input-array-is-sorted) | Medium |
+| 167 | [Two Sum II - Input Array Is Sorted](../leetcode-solutions/0167-two-sum-ii-input-array-is-sorted) | Medium |
 | 169 | [Majority Element](../leetcode-solutions/0169-majority-element) | Easy |
 | 198 | [House Robber](../leetcode-solutions/0198-house-robber) | Medium |
 | 200 | [Number of Islands](../leetcode-solutions/0200-number-of-islands) | Medium |
@@ -124,6 +124,7 @@
 | 2026 | [Merge Triplets to Form Target Triplet](../leetcode-solutions/2026-merge-triplets-to-form-target-triplet) | Medium |
 | 2043 | [Cyclically Rotating a Grid](../leetcode-solutions/2043-cyclically-rotating-a-grid) | Medium |
 | 2058 | [Concatenation of Array](../leetcode-solutions/2058-concatenation-of-array) | Easy |
+| 2089 | [Find Target Indices After Sorting Array](../leetcode-solutions/2089-find-target-indices-after-sorting-array) | Easy |
 | 2099 | [Number of Strings That Appear as Substrings in Word](../leetcode-solutions/2099-number-of-strings-that-appear-as-substrings-in-word) | Easy |
 | 2106 | [Find Greatest Common Divisor of Array](../leetcode-solutions/2106-find-greatest-common-divisor-of-array) | Easy |
 | 2156 | [Stone Game IX](../leetcode-solutions/2156-stone-game-ix) | Medium |

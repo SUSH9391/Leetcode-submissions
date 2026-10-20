@@ -1,6 +1,6 @@
 # Binary Search
 
-**Problems solved:** 31
+**Problems solved:** 32
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -11,8 +11,8 @@
 | 74 | [Search a 2D Matrix](../leetcode-solutions/0074-search-a-2d-matrix) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](../leetcode-solutions/0153-find-minimum-in-rotated-sorted-array) | Medium |
 | 154 | [Find Minimum in Rotated Sorted Array II](../leetcode-solutions/0154-find-minimum-in-rotated-sorted-array-ii) | Hard |
-| 167 | [Two Sum II - Input Array Is Sorted](../leetcode-solutions/0167-two-sum-ii-input-array-is-sorted) | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](../leetcode-solutions/0167-two-sum-ii---input-array-is-sorted) | Medium |
+| 167 | [Two Sum II - Input Array Is Sorted](../leetcode-solutions/0167-two-sum-ii-input-array-is-sorted) | Medium |
 | 240 | [Search a 2D Matrix II](../leetcode-solutions/0240-search-a-2d-matrix-ii) | Medium |
 | 287 | [Find the Duplicate Number](../leetcode-solutions/0287-find-the-duplicate-number) | Medium |
 | 300 | [Longest Increasing Subsequence](../leetcode-solutions/0300-longest-increasing-subsequence) | Medium |
@@ -22,6 +22,7 @@
 | 882 | [Peak Index in a Mountain Array](../leetcode-solutions/0882-peak-index-in-a-mountain-array) | Medium |
 | 923 | [Super Egg Drop](../leetcode-solutions/0923-super-egg-drop) | Hard |
 | 1776 | [Minimum Operations to Reduce X to Zero](../leetcode-solutions/1776-minimum-operations-to-reduce-x-to-zero) | Medium |
+| 2089 | [Find Target Indices After Sorting Array](../leetcode-solutions/2089-find-target-indices-after-sorting-array) | Easy |
 | 2634 | [Minimum Common Value](../leetcode-solutions/2634-minimum-common-value) | Easy |
 | 2914 | [Find the Safest Path in a Grid](../leetcode-solutions/2914-find-the-safest-path-in-a-grid) | Medium |
 | 3375 | [Kth Smallest Amount With Single Denomination Combination](../leetcode-solutions/3375-kth-smallest-amount-with-single-denomination-combination) | Hard |

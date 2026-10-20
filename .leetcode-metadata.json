@@ -2023,6 +2023,26 @@
       }
     ]
   },
+  "2089": {
+    "difficulty": "Easy",
+    "id": 2089,
+    "slug": "find-target-indices-after-sorting-array",
+    "title": "Find Target Indices After Sorting Array",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
   "2099": {
     "difficulty": "Easy",
     "id": 1967,

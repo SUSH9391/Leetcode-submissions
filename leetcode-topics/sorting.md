@@ -1,6 +1,6 @@
 # Sorting
 
-**Problems solved:** 40
+**Problems solved:** 41
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -32,6 +32,7 @@
 | 1798 | [Max Number of K-Sum Pairs](../leetcode-solutions/1798-max-number-of-k-sum-pairs) | Medium |
 | 1956 | [Maximum Element After Decreasing and Rearranging](../leetcode-solutions/1956-maximum-element-after-decreasing-and-rearranging) | Medium |
 | 1968 | [Maximum Building Height](../leetcode-solutions/1968-maximum-building-height) | Hard |
+| 2089 | [Find Target Indices After Sorting Array](../leetcode-solutions/2089-find-target-indices-after-sorting-array) | Easy |
 | 2160 | [Minimum Operations to Make a Uni-Value Grid](../leetcode-solutions/2160-minimum-operations-to-make-a-uni-value-grid) | Medium |
 | 2245 | [Destroying Asteroids](../leetcode-solutions/2245-destroying-asteroids) | Medium |
 | 3219 | [Make Lexicographically Smallest Array by Swapping Elements](../leetcode-solutions/3219-make-lexicographically-smallest-array-by-swapping-elements) | Medium |
