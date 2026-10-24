@@ -1,6 +1,6 @@
 # Bit Manipulation
 
-**Problems solved:** 16
+**Problems solved:** 17
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -15,6 +15,7 @@
 | 1487 | [Cinema Seat Allocation](../leetcode-solutions/1487-cinema-seat-allocation) | Medium |
 | 2766 | [Find the Prefix Common Array of Two Arrays](../leetcode-solutions/2766-find-the-prefix-common-array-of-two-arrays) | Medium |
 | 3375 | [Kth Smallest Amount With Single Denomination Combination](../leetcode-solutions/3375-kth-smallest-amount-with-single-denomination-combination) | Hard |
+| 3644 | [Maximum K to Sort a Permutation](../leetcode-solutions/3644-maximum-k-to-sort-a-permutation) | Medium |
 | 3820 | [Number of Unique XOR Triplets II](../leetcode-solutions/3820-number-of-unique-xor-triplets-ii) | Medium |
 | 3824 | [Number of Unique XOR Triplets I](../leetcode-solutions/3824-number-of-unique-xor-triplets-i) | Medium |
 | 3842 | [Number of Ways to Assign Edge Weights II](../leetcode-solutions/3842-number-of-ways-to-assign-edge-weights-ii) | Hard |

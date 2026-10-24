@@ -4,19 +4,19 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 ## Progress
 
-**Total indexed:** 320
+**Total indexed:** 321
 
 | Difficulty | Solved |
 |---|---:|
 | Easy | 102 |
-| Medium | 171 |
+| Medium | 172 |
 | Hard | 47 |
 
 ## Topics
 
 | Topic | Problems |
 |---|---:|
-| [Array](leetcode-topics/array.md) | 181 |
+| [Array](leetcode-topics/array.md) | 182 |
 | [String](leetcode-topics/string.md) | 77 |
 | [Math](leetcode-topics/math.md) | 57 |
 | [Dynamic Programming](leetcode-topics/dynamic-programming.md) | 55 |
@@ -30,9 +30,9 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [Stack](leetcode-topics/stack.md) | 27 |
 | [Matrix](leetcode-topics/matrix.md) | 23 |
 | [Tree](leetcode-topics/tree.md) | 18 |
+| [Bit Manipulation](leetcode-topics/bit-manipulation.md) | 17 |
 | [Heap (Priority Queue)](leetcode-topics/heap-priority-queue.md) | 17 |
 | [Binary Tree](leetcode-topics/binary-tree.md) | 16 |
-| [Bit Manipulation](leetcode-topics/bit-manipulation.md) | 16 |
 | [Simulation](leetcode-topics/simulation.md) | 16 |
 | [Graph Theory](leetcode-topics/graph-theory.md) | 15 |
 | [Prefix Sum](leetcode-topics/prefix-sum.md) | 15 |

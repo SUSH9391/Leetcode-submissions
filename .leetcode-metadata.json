@@ -3761,6 +3761,22 @@
       }
     ]
   },
+  "3644": {
+    "difficulty": "Medium",
+    "id": 3644,
+    "slug": "maximum-k-to-sort-a-permutation",
+    "title": "Maximum K to Sort a Permutation",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  },
   "3705": {
     "difficulty": "Easy",
     "id": 3471,

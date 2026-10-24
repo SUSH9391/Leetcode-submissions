@@ -1,6 +1,6 @@
 # Array
 
-**Problems solved:** 181
+**Problems solved:** 182
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -150,6 +150,7 @@
 | 3583 | [Sorted GCD Pair Queries](../leetcode-solutions/3583-sorted-gcd-pair-queries) | Hard |
 | 3606 | [Minimum Element After Replacement With Digit Sum](../leetcode-solutions/3606-minimum-element-after-replacement-with-digit-sum) | Easy |
 | 3608 | [Find the Number of Subsequences With Equal GCD](../leetcode-solutions/3608-find-the-number-of-subsequences-with-equal-gcd) | Hard |
+| 3644 | [Maximum K to Sort a Permutation](../leetcode-solutions/3644-maximum-k-to-sort-a-permutation) | Medium |
 | 3705 | [Find the Largest Almost Missing Integer](../leetcode-solutions/3705-find-the-largest-almost-missing-integer) | Easy |
 | 3762 | [Maximize the Minimum Game Score](../leetcode-solutions/3762-maximize-the-minimum-game-score) | Hard |
 | 3763 | [Separate Squares I](../leetcode-solutions/3763-separate-squares-i) | Medium |

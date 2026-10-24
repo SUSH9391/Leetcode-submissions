@@ -1,12 +1,12 @@
 {
-  "total_indexed": 320,
+  "total_indexed": 321,
   "difficulty": {
     "Easy": 102,
-    "Medium": 171,
+    "Medium": 172,
     "Hard": 47
   },
   "topics": {
-    "Array": 181,
+    "Array": 182,
     "Hash Table": 55,
     "Linked List": 14,
     "Math": 57,
@@ -34,7 +34,7 @@
     "Algorithm X": 1,
     "Quicksort": 1,
     "Combinatorics": 5,
-    "Bit Manipulation": 16,
+    "Bit Manipulation": 17,
     "Newton's Method": 1,
     "Memoization": 2,
     "Depth-First Search": 33,
