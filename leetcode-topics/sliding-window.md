@@ -1,11 +1,12 @@
 # Sliding Window
 
-**Problems solved:** 11
+**Problems solved:** 12
 
 | # | Problem | Difficulty |
 |---:|---|---|
 | 3 | [Longest Substring Without Repeating Characters](../leetcode-solutions/0003-longest-substring-without-repeating-characters) | Medium |
 | 76 | [Minimum Window Substring](../leetcode-solutions/0076-minimum-window-substring) | Hard |
+| 219 | [Contains Duplicate II](../leetcode-solutions/0219-contains-duplicate-ii) | Easy |
 | 567 | [Permutation in String](../leetcode-solutions/0567-permutation-in-string) | Medium |
 | 643 | [Maximum Average Subarray I](../leetcode-solutions/0643-maximum-average-subarray-i) | Easy |
 | 1460 | [Number of Substrings Containing All Three Characters](../leetcode-solutions/1460-number-of-substrings-containing-all-three-characters) | Medium |

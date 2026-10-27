@@ -1,18 +1,18 @@
 {
-  "total_indexed": 321,
+  "total_indexed": 322,
   "difficulty": {
-    "Easy": 102,
+    "Easy": 103,
     "Medium": 172,
     "Hard": 47
   },
   "topics": {
-    "Array": 182,
-    "Hash Table": 55,
+    "Array": 183,
+    "Hash Table": 56,
     "Linked List": 14,
     "Math": 57,
     "Recursion": 6,
     "String": 77,
-    "Sliding Window": 11,
+    "Sliding Window": 12,
     "Binary Search": 32,
     "Divide and Conquer": 11,
     "Two Pointers": 39,

@@ -1,6 +1,6 @@
 # Hash Table
 
-**Problems solved:** 55
+**Problems solved:** 56
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -20,6 +20,7 @@
 | 146 | [LRU Cache](../leetcode-solutions/0146-lru-cache) | Medium |
 | 169 | [Majority Element](../leetcode-solutions/0169-majority-element) | Easy |
 | 217 | [Contains Duplicate](../leetcode-solutions/0217-contains-duplicate) | Easy |
+| 219 | [Contains Duplicate II](../leetcode-solutions/0219-contains-duplicate-ii) | Easy |
 | 229 | [Majority Element II](../leetcode-solutions/0229-majority-element-ii) | Medium |
 | 242 | [Valid Anagram](../leetcode-solutions/0242-valid-anagram) | Easy |
 | 347 | [Top K Frequent Elements](../leetcode-solutions/0347-top-k-frequent-elements) | Medium |

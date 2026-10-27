@@ -1,6 +1,6 @@
 # Array
 
-**Problems solved:** 182
+**Problems solved:** 183
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -57,6 +57,7 @@
 | 213 | [House Robber II](../leetcode-solutions/0213-house-robber-ii) | Medium |
 | 215 | [Kth Largest Element in an Array](../leetcode-solutions/0215-kth-largest-element-in-an-array) | Medium |
 | 217 | [Contains Duplicate](../leetcode-solutions/0217-contains-duplicate) | Easy |
+| 219 | [Contains Duplicate II](../leetcode-solutions/0219-contains-duplicate-ii) | Easy |
 | 229 | [Majority Element II](../leetcode-solutions/0229-majority-element-ii) | Medium |
 | 238 | [Product of Array Except Self](../leetcode-solutions/0238-product-of-array-except-self) | Medium |
 | 240 | [Search a 2D Matrix II](../leetcode-solutions/0240-search-a-2d-matrix-ii) | Medium |

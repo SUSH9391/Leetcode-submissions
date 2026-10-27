@@ -2267,6 +2267,26 @@
       }
     ]
   },
+  "219": {
+    "difficulty": "Easy",
+    "id": 219,
+    "slug": "contains-duplicate-ii",
+    "title": "Contains Duplicate II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
   "22": {
     "difficulty": "Medium",
     "id": 22,
