@@ -1,10 +1,11 @@
 # Greedy
 
-**Problems solved:** 31
+**Problems solved:** 32
 
 | # | Problem | Difficulty |
 |---:|---|---|
 | 11 | [Container With Most Water](../leetcode-solutions/0011-container-with-most-water) | Medium |
+| 44 | [Wildcard Matching](../leetcode-solutions/0044-wildcard-matching) | Hard |
 | 45 | [Jump Game II](../leetcode-solutions/0045-jump-game-ii) | Medium |
 | 55 | [Jump Game](../leetcode-solutions/0055-jump-game) | Medium |
 | 134 | [Gas Station](../leetcode-solutions/0134-gas-station) | Medium |

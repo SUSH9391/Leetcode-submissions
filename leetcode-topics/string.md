@@ -1,6 +1,6 @@
 # String
 
-**Problems solved:** 77
+**Problems solved:** 78
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -15,6 +15,7 @@
 | 28 | [Find the Index of the First Occurrence in a String](../leetcode-solutions/0028-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
 | 32 | [Longest Valid Parentheses](../leetcode-solutions/0032-longest-valid-parentheses) | Hard |
 | 43 | [Multiply Strings](../leetcode-solutions/0043-multiply-strings) | Medium |
+| 44 | [Wildcard Matching](../leetcode-solutions/0044-wildcard-matching) | Hard |
 | 49 | [Group Anagrams](../leetcode-solutions/0049-group-anagrams) | Medium |
 | 58 | [Length of Last Word](../leetcode-solutions/0058-length-of-last-word) | Easy |
 | 67 | [Add Binary](../leetcode-solutions/0067-add-binary) | Easy |

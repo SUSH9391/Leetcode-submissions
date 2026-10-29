@@ -5080,6 +5080,30 @@
       }
     ]
   },
+  "44": {
+    "difficulty": "Hard",
+    "id": 44,
+    "slug": "wildcard-matching",
+    "title": "Wildcard Matching",
+    "topics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ]
+  },
   "4406": {
     "difficulty": "Medium",
     "id": 4050,

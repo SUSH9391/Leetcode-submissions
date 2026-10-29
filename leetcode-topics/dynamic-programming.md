@@ -1,6 +1,6 @@
 # Dynamic Programming
 
-**Problems solved:** 55
+**Problems solved:** 56
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -8,6 +8,7 @@
 | 22 | [Generate Parentheses](../leetcode-solutions/0022-generate-parentheses) | Medium |
 | 32 | [Longest Valid Parentheses](../leetcode-solutions/0032-longest-valid-parentheses) | Hard |
 | 42 | [Trapping Rain Water](../leetcode-solutions/0042-trapping-rain-water) | Hard |
+| 44 | [Wildcard Matching](../leetcode-solutions/0044-wildcard-matching) | Hard |
 | 45 | [Jump Game II](../leetcode-solutions/0045-jump-game-ii) | Medium |
 | 53 | [Maximum Subarray](../leetcode-solutions/0053-maximum-subarray) | Medium |
 | 55 | [Jump Game](../leetcode-solutions/0055-jump-game) | Medium |

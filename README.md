@@ -4,28 +4,28 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 ## Progress
 
-**Total indexed:** 322
+**Total indexed:** 323
 
 | Difficulty | Solved |
 |---|---:|
 | Easy | 103 |
 | Medium | 172 |
-| Hard | 47 |
+| Hard | 48 |
 
 ## Topics
 
 | Topic | Problems |
 |---|---:|
 | [Array](leetcode-topics/array.md) | 183 |
-| [String](leetcode-topics/string.md) | 77 |
+| [String](leetcode-topics/string.md) | 78 |
 | [Math](leetcode-topics/math.md) | 57 |
+| [Dynamic Programming](leetcode-topics/dynamic-programming.md) | 56 |
 | [Hash Table](leetcode-topics/hash-table.md) | 56 |
-| [Dynamic Programming](leetcode-topics/dynamic-programming.md) | 55 |
 | [Sorting](leetcode-topics/sorting.md) | 41 |
 | [Two Pointers](leetcode-topics/two-pointers.md) | 39 |
 | [Depth-First Search](leetcode-topics/depth-first-search.md) | 33 |
 | [Binary Search](leetcode-topics/binary-search.md) | 32 |
-| [Greedy](leetcode-topics/greedy.md) | 31 |
+| [Greedy](leetcode-topics/greedy.md) | 32 |
 | [Breadth-First Search](leetcode-topics/breadth-first-search.md) | 29 |
 | [Stack](leetcode-topics/stack.md) | 27 |
 | [Matrix](leetcode-topics/matrix.md) | 23 |
@@ -46,7 +46,7 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [Bracket Sequences](leetcode-topics/bracket-sequences.md) | 10 |
 | [Number Theory](leetcode-topics/number-theory.md) | 8 |
 | [Monotonic Stack](leetcode-topics/monotonic-stack.md) | 7 |
-| [Recursion](leetcode-topics/recursion.md) | 6 |
+| [Recursion](leetcode-topics/recursion.md) | 7 |
 | [Segment Tree](leetcode-topics/segment-tree.md) | 6 |
 | [Combinatorics](leetcode-topics/combinatorics.md) | 5 |
 | [Design](leetcode-topics/design.md) | 5 |
