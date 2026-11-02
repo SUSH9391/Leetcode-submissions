@@ -5274,6 +5274,26 @@
       }
     ]
   },
+  "462": {
+    "difficulty": "Medium",
+    "id": 462,
+    "slug": "minimum-moves-to-equal-array-elements-ii",
+    "title": "Minimum Moves to Equal Array Elements II",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
   "485": {
     "difficulty": "Easy",
     "id": 485,

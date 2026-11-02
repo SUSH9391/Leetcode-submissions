@@ -1,6 +1,6 @@
 # Sorting
 
-**Problems solved:** 41
+**Problems solved:** 42
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -17,6 +17,7 @@
 | 332 | [Reconstruct Itinerary](../leetcode-solutions/0332-reconstruct-itinerary) | Hard |
 | 347 | [Top K Frequent Elements](../leetcode-solutions/0347-top-k-frequent-elements) | Medium |
 | 435 | [Non-overlapping Intervals](../leetcode-solutions/0435-non-overlapping-intervals) | Medium |
+| 462 | [Minimum Moves to Equal Array Elements II](../leetcode-solutions/0462-minimum-moves-to-equal-array-elements-ii) | Medium |
 | 621 | [Task Scheduler](../leetcode-solutions/0621-task-scheduler) | Medium |
 | 628 | [Maximum Product of Three Numbers](../leetcode-solutions/0628-maximum-product-of-three-numbers) | Easy |
 | 645 | [Set Mismatch](../leetcode-solutions/0645-set-mismatch) | Easy |

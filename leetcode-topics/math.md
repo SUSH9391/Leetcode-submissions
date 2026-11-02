@@ -1,6 +1,6 @@
 # Math
 
-**Problems solved:** 57
+**Problems solved:** 58
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -20,6 +20,7 @@
 | 258 | [Add Digits](../leetcode-solutions/0258-add-digits) | Easy |
 | 396 | [Rotate Function](../leetcode-solutions/0396-rotate-function) | Medium |
 | 412 | [Fizz Buzz](../leetcode-solutions/0412-fizz-buzz) | Easy |
+| 462 | [Minimum Moves to Equal Array Elements II](../leetcode-solutions/0462-minimum-moves-to-equal-array-elements-ii) | Medium |
 | 628 | [Maximum Product of Three Numbers](../leetcode-solutions/0628-maximum-product-of-three-numbers) | Easy |
 | 804 | [Rotated Digits](../leetcode-solutions/0804-rotated-digits) | Medium |
 | 866 | [Rectangle Overlap](../leetcode-solutions/0866-rectangle-overlap) | Easy |
