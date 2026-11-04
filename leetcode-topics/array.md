@@ -1,6 +1,6 @@
 # Array
 
-**Problems solved:** 184
+**Problems solved:** 186
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -147,6 +147,7 @@
 | 3375 | [Kth Smallest Amount With Single Denomination Combination](../leetcode-solutions/3375-kth-smallest-amount-with-single-denomination-combination) | Hard |
 | 3376 | [Longest Common Suffix Queries](../leetcode-solutions/3376-longest-common-suffix-queries) | Hard |
 | 3470 | [Maximum Score From Grid Operations](../leetcode-solutions/3470-maximum-score-from-grid-operations) | Hard |
+| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](../leetcode-solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) | Hard |
 | 3558 | [Find a Safe Walk Through a Grid](../leetcode-solutions/3558-find-a-safe-walk-through-a-grid) | Medium |
 | 3562 | [Maximum Score of Non-overlapping Intervals](../leetcode-solutions/3562-maximum-score-of-non-overlapping-intervals) | Hard |
 | 3583 | [Sorted GCD Pair Queries](../leetcode-solutions/3583-sorted-gcd-pair-queries) | Hard |
@@ -154,6 +155,7 @@
 | 3608 | [Find the Number of Subsequences With Equal GCD](../leetcode-solutions/3608-find-the-number-of-subsequences-with-equal-gcd) | Hard |
 | 3644 | [Maximum K to Sort a Permutation](../leetcode-solutions/3644-maximum-k-to-sort-a-permutation) | Medium |
 | 3705 | [Find the Largest Almost Missing Integer](../leetcode-solutions/3705-find-the-largest-almost-missing-integer) | Easy |
+| 3736 | [Minimum Moves to Equal Array Elements III](../leetcode-solutions/3736-minimum-moves-to-equal-array-elements-iii) | Easy |
 | 3762 | [Maximize the Minimum Game Score](../leetcode-solutions/3762-maximize-the-minimum-game-score) | Hard |
 | 3763 | [Separate Squares I](../leetcode-solutions/3763-separate-squares-i) | Medium |
 | 3781 | [Maximize the Distance Between Points on a Square](../leetcode-solutions/3781-maximize-the-distance-between-points-on-a-square) | Hard |

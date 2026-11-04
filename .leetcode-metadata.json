@@ -3537,6 +3537,38 @@
       }
     ]
   },
+  "3505": {
+    "difficulty": "Hard",
+    "id": 3505,
+    "slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+    "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ]
+  },
   "355": {
     "difficulty": "Medium",
     "id": 355,
@@ -3810,6 +3842,22 @@
       {
         "name": "Hash Table",
         "slug": "hash-table"
+      }
+    ]
+  },
+  "3736": {
+    "difficulty": "Easy",
+    "id": 3736,
+    "slug": "minimum-moves-to-equal-array-elements-iii",
+    "title": "Minimum Moves to Equal Array Elements III",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
       }
     ]
   },

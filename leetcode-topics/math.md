@@ -1,6 +1,6 @@
 # Math
 
-**Problems solved:** 58
+**Problems solved:** 60
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -38,10 +38,12 @@
 | 2160 | [Minimum Operations to Make a Uni-Value Grid](../leetcode-solutions/2160-minimum-operations-to-make-a-uni-value-grid) | Medium |
 | 3275 | [Minimum Number of Pushes to Type Word I](../leetcode-solutions/3275-minimum-number-of-pushes-to-type-word-i) | Easy |
 | 3375 | [Kth Smallest Amount With Single Denomination Combination](../leetcode-solutions/3375-kth-smallest-amount-with-single-denomination-combination) | Hard |
+| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](../leetcode-solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) | Hard |
 | 3583 | [Sorted GCD Pair Queries](../leetcode-solutions/3583-sorted-gcd-pair-queries) | Hard |
 | 3606 | [Minimum Element After Replacement With Digit Sum](../leetcode-solutions/3606-minimum-element-after-replacement-with-digit-sum) | Easy |
 | 3608 | [Find the Number of Subsequences With Equal GCD](../leetcode-solutions/3608-find-the-number-of-subsequences-with-equal-gcd) | Hard |
 | 3626 | [Smallest Divisible Digit Product I](../leetcode-solutions/3626-smallest-divisible-digit-product-i) | Easy |
+| 3736 | [Minimum Moves to Equal Array Elements III](../leetcode-solutions/3736-minimum-moves-to-equal-array-elements-iii) | Easy |
 | 3781 | [Maximize the Distance Between Points on a Square](../leetcode-solutions/3781-maximize-the-distance-between-points-on-a-square) | Hard |
 | 3813 | [Smallest Palindromic Rearrangement II](../leetcode-solutions/3813-smallest-palindromic-rearrangement-ii) | Hard |
 | 3820 | [Number of Unique XOR Triplets II](../leetcode-solutions/3820-number-of-unique-xor-triplets-ii) | Medium |

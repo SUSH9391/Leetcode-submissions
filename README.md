@@ -4,23 +4,23 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 ## Progress
 
-**Total indexed:** 324
+**Total indexed:** 326
 
 | Difficulty | Solved |
 |---|---:|
-| Easy | 103 |
+| Easy | 104 |
 | Medium | 173 |
-| Hard | 48 |
+| Hard | 49 |
 
 ## Topics
 
 | Topic | Problems |
 |---|---:|
-| [Array](leetcode-topics/array.md) | 184 |
+| [Array](leetcode-topics/array.md) | 186 |
 | [String](leetcode-topics/string.md) | 78 |
-| [Math](leetcode-topics/math.md) | 58 |
-| [Dynamic Programming](leetcode-topics/dynamic-programming.md) | 56 |
-| [Hash Table](leetcode-topics/hash-table.md) | 56 |
+| [Math](leetcode-topics/math.md) | 60 |
+| [Dynamic Programming](leetcode-topics/dynamic-programming.md) | 57 |
+| [Hash Table](leetcode-topics/hash-table.md) | 57 |
 | [Sorting](leetcode-topics/sorting.md) | 42 |
 | [Two Pointers](leetcode-topics/two-pointers.md) | 39 |
 | [Depth-First Search](leetcode-topics/depth-first-search.md) | 33 |
@@ -29,18 +29,18 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [Breadth-First Search](leetcode-topics/breadth-first-search.md) | 29 |
 | [Stack](leetcode-topics/stack.md) | 27 |
 | [Matrix](leetcode-topics/matrix.md) | 23 |
+| [Heap (Priority Queue)](leetcode-topics/heap-priority-queue.md) | 18 |
 | [Tree](leetcode-topics/tree.md) | 18 |
 | [Bit Manipulation](leetcode-topics/bit-manipulation.md) | 17 |
-| [Heap (Priority Queue)](leetcode-topics/heap-priority-queue.md) | 17 |
 | [Binary Tree](leetcode-topics/binary-tree.md) | 16 |
 | [Simulation](leetcode-topics/simulation.md) | 16 |
 | [Graph Theory](leetcode-topics/graph-theory.md) | 15 |
 | [Prefix Sum](leetcode-topics/prefix-sum.md) | 15 |
 | [Linked List](leetcode-topics/linked-list.md) | 14 |
 | [Union-Find](leetcode-topics/union-find.md) | 14 |
+| [Sliding Window](leetcode-topics/sliding-window.md) | 13 |
 | [Backtracking](leetcode-topics/backtracking.md) | 12 |
 | [Enumeration](leetcode-topics/enumeration.md) | 12 |
-| [Sliding Window](leetcode-topics/sliding-window.md) | 12 |
 | [Counting](leetcode-topics/counting.md) | 11 |
 | [Divide and Conquer](leetcode-topics/divide-and-conquer.md) | 11 |
 | [Bracket Sequences](leetcode-topics/bracket-sequences.md) | 10 |

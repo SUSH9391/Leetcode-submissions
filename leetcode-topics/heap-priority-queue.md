@@ -1,6 +1,6 @@
 # Heap (Priority Queue)
 
-**Problems solved:** 17
+**Problems solved:** 18
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -19,5 +19,6 @@
 | 1127 | [Last Stone Weight](../leetcode-solutions/1127-last-stone-weight) | Easy |
 | 1574 | [Maximum Product of Two Elements in an Array](../leetcode-solutions/1574-maximum-product-of-two-elements-in-an-array) | Easy |
 | 2914 | [Find the Safest Path in a Grid](../leetcode-solutions/2914-find-the-safest-path-in-a-grid) | Medium |
+| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](../leetcode-solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) | Hard |
 | 3558 | [Find a Safe Walk Through a Grid](../leetcode-solutions/3558-find-a-safe-walk-through-a-grid) | Medium |
 | 3919 | [Network Recovery Pathways](../leetcode-solutions/3919-network-recovery-pathways) | Hard |

@@ -1,6 +1,6 @@
 # Dynamic Programming
 
-**Problems solved:** 56
+**Problems solved:** 57
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -48,6 +48,7 @@
 | 2002 | [Stone Game VIII](../leetcode-solutions/2002-stone-game-viii) | Hard |
 | 2559 | [Maximum Number of Non-overlapping Palindrome Substrings](../leetcode-solutions/2559-maximum-number-of-non-overlapping-palindrome-substrings) | Hard |
 | 3470 | [Maximum Score From Grid Operations](../leetcode-solutions/3470-maximum-score-from-grid-operations) | Hard |
+| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](../leetcode-solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) | Hard |
 | 3562 | [Maximum Score of Non-overlapping Intervals](../leetcode-solutions/3562-maximum-score-of-non-overlapping-intervals) | Hard |
 | 3608 | [Find the Number of Subsequences With Equal GCD](../leetcode-solutions/3608-find-the-number-of-subsequences-with-equal-gcd) | Hard |
 | 3831 | [Find X Value of Array I](../leetcode-solutions/3831-find-x-value-of-array-i) | Medium |

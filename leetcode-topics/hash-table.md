@@ -1,6 +1,6 @@
 # Hash Table
 
-**Problems solved:** 56
+**Problems solved:** 57
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -47,6 +47,7 @@
 | 3276 | [Minimum Number of Pushes to Type Word II](../leetcode-solutions/3276-minimum-number-of-pushes-to-type-word-ii) | Medium |
 | 3299 | [Find the Maximum Number of Elements in Subset](../leetcode-solutions/3299-find-the-maximum-number-of-elements-in-subset) | Medium |
 | 3329 | [Find the Length of the Longest Common Prefix](../leetcode-solutions/3329-find-the-length-of-the-longest-common-prefix) | Medium |
+| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](../leetcode-solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) | Hard |
 | 3583 | [Sorted GCD Pair Queries](../leetcode-solutions/3583-sorted-gcd-pair-queries) | Hard |
 | 3705 | [Find the Largest Almost Missing Integer](../leetcode-solutions/3705-find-the-largest-almost-missing-integer) | Easy |
 | 3799 | [Unique 3-Digit Even Numbers](../leetcode-solutions/3799-unique-3-digit-even-numbers) | Easy |
