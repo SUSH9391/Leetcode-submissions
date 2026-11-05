@@ -4,11 +4,11 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 ## Progress
 
-**Total indexed:** 326
+**Total indexed:** 327
 
 | Difficulty | Solved |
 |---|---:|
-| Easy | 104 |
+| Easy | 105 |
 | Medium | 173 |
 | Hard | 49 |
 
@@ -16,15 +16,15 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 | Topic | Problems |
 |---|---:|
-| [Array](leetcode-topics/array.md) | 186 |
+| [Array](leetcode-topics/array.md) | 187 |
 | [String](leetcode-topics/string.md) | 78 |
 | [Math](leetcode-topics/math.md) | 60 |
 | [Dynamic Programming](leetcode-topics/dynamic-programming.md) | 57 |
 | [Hash Table](leetcode-topics/hash-table.md) | 57 |
-| [Sorting](leetcode-topics/sorting.md) | 42 |
-| [Two Pointers](leetcode-topics/two-pointers.md) | 39 |
+| [Sorting](leetcode-topics/sorting.md) | 43 |
+| [Two Pointers](leetcode-topics/two-pointers.md) | 40 |
+| [Binary Search](leetcode-topics/binary-search.md) | 33 |
 | [Depth-First Search](leetcode-topics/depth-first-search.md) | 33 |
-| [Binary Search](leetcode-topics/binary-search.md) | 32 |
 | [Greedy](leetcode-topics/greedy.md) | 32 |
 | [Breadth-First Search](leetcode-topics/breadth-first-search.md) | 29 |
 | [Stack](leetcode-topics/stack.md) | 27 |

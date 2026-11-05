@@ -1,6 +1,6 @@
 # Sorting
 
-**Problems solved:** 42
+**Problems solved:** 43
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -26,6 +26,7 @@
 | 1014 | [K Closest Points to Origin](../leetcode-solutions/1014-k-closest-points-to-origin) | Medium |
 | 1222 | [Remove Covered Intervals](../leetcode-solutions/1222-remove-covered-intervals) | Medium |
 | 1256 | [Rank Transform of an Array](../leetcode-solutions/1256-rank-transform-of-an-array) | Easy |
+| 1385 | [Find the Distance Value Between Two Arrays](../leetcode-solutions/1385-find-the-distance-value-between-two-arrays) | Easy |
 | 1482 | [How Many Numbers Are Smaller Than the Current Number](../leetcode-solutions/1482-how-many-numbers-are-smaller-than-the-current-number) | Easy |
 | 1574 | [Maximum Product of Two Elements in an Array](../leetcode-solutions/1574-maximum-product-of-two-elements-in-an-array) | Easy |
 | 1644 | [Maximum Number of Non-Overlapping Substrings](../leetcode-solutions/1644-maximum-number-of-non-overlapping-substrings) | Hard |

@@ -1,6 +1,6 @@
 # Binary Search
 
-**Problems solved:** 32
+**Problems solved:** 33
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -21,6 +21,7 @@
 | 794 | [Swim in Rising Water](../leetcode-solutions/0794-swim-in-rising-water) | Hard |
 | 882 | [Peak Index in a Mountain Array](../leetcode-solutions/0882-peak-index-in-a-mountain-array) | Medium |
 | 923 | [Super Egg Drop](../leetcode-solutions/0923-super-egg-drop) | Hard |
+| 1385 | [Find the Distance Value Between Two Arrays](../leetcode-solutions/1385-find-the-distance-value-between-two-arrays) | Easy |
 | 1776 | [Minimum Operations to Reduce X to Zero](../leetcode-solutions/1776-minimum-operations-to-reduce-x-to-zero) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](../leetcode-solutions/2089-find-target-indices-after-sorting-array) | Easy |
 | 2634 | [Minimum Common Value](../leetcode-solutions/2634-minimum-common-value) | Easy |

@@ -1,6 +1,6 @@
 # Array
 
-**Problems solved:** 186
+**Problems solved:** 187
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -99,6 +99,7 @@
 | 1222 | [Remove Covered Intervals](../leetcode-solutions/1222-remove-covered-intervals) | Medium |
 | 1234 | [Number of Paths with Max Score](../leetcode-solutions/1234-number-of-paths-with-max-score) | Hard |
 | 1256 | [Rank Transform of an Array](../leetcode-solutions/1256-rank-transform-of-an-array) | Easy |
+| 1385 | [Find the Distance Value Between Two Arrays](../leetcode-solutions/1385-find-the-distance-value-between-two-arrays) | Easy |
 | 1386 | [Shift 2D Grid](../leetcode-solutions/1386-shift-2d-grid) | Easy |
 | 1428 | [Jump Game III](../leetcode-solutions/1428-jump-game-iii) | Medium |
 | 1447 | [Jump Game IV](../leetcode-solutions/1447-jump-game-iv) | Hard |

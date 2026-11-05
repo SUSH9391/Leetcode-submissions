@@ -1,6 +1,6 @@
 # Two Pointers
 
-**Problems solved:** 39
+**Problems solved:** 40
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -33,6 +33,7 @@
 | 567 | [Permutation in String](../leetcode-solutions/0567-permutation-in-string) | Medium |
 | 647 | [Palindromic Substrings](../leetcode-solutions/0647-palindromic-substrings) | Medium |
 | 768 | [Partition Labels](../leetcode-solutions/0768-partition-labels) | Medium |
+| 1385 | [Find the Distance Value Between Two Arrays](../leetcode-solutions/1385-find-the-distance-value-between-two-arrays) | Easy |
 | 1798 | [Max Number of K-Sum Pairs](../leetcode-solutions/1798-max-number-of-k-sum-pairs) | Medium |
 | 1894 | [Merge Strings Alternately](../leetcode-solutions/1894-merge-strings-alternately) | Easy |
 | 2216 | [Delete the Middle Node of a Linked List](../leetcode-solutions/2216-delete-the-middle-node-of-a-linked-list) | Medium |

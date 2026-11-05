@@ -667,6 +667,30 @@
       }
     ]
   },
+  "1385": {
+    "difficulty": "Easy",
+    "id": 1385,
+    "slug": "find-the-distance-value-between-two-arrays",
+    "title": "Find the Distance Value Between Two Arrays",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
   "1386": {
     "difficulty": "Easy",
     "id": 1260,
