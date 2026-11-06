@@ -28,7 +28,7 @@ jobs:
       - name: Build topic indexes
         run: python scripts/build_leetcode_index.py
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -41,4 +41,7 @@ jobs:
           fi
 
           git commit -m "[LeetCode Sync] Update submissions and indexes"
+          
+          # Pull any remote changes (rebase) to avoid non-fast-forward rejections
+          git pull origin main --rebase
           git push origin main
