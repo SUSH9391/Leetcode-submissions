@@ -1,6 +1,6 @@
 # Sorting
 
-**Problems solved:** 43
+**Problems solved:** 44
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -37,6 +37,7 @@
 | 2089 | [Find Target Indices After Sorting Array](../leetcode-solutions/2089-find-target-indices-after-sorting-array) | Easy |
 | 2160 | [Minimum Operations to Make a Uni-Value Grid](../leetcode-solutions/2160-minimum-operations-to-make-a-uni-value-grid) | Medium |
 | 2245 | [Destroying Asteroids](../leetcode-solutions/2245-destroying-asteroids) | Medium |
+| 2747 | [Count Zero Request Servers](../leetcode-solutions/2747-count-zero-request-servers) | Medium |
 | 3219 | [Make Lexicographically Smallest Array by Swapping Elements](../leetcode-solutions/3219-make-lexicographically-smallest-array-by-swapping-elements) | Medium |
 | 3276 | [Minimum Number of Pushes to Type Word II](../leetcode-solutions/3276-minimum-number-of-pushes-to-type-word-ii) | Medium |
 | 3562 | [Maximum Score of Non-overlapping Intervals](../leetcode-solutions/3562-maximum-score-of-non-overlapping-intervals) | Hard |

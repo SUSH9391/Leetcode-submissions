@@ -1,6 +1,6 @@
 # Sliding Window
 
-**Problems solved:** 13
+**Problems solved:** 14
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -13,6 +13,7 @@
 | 1567 | [Maximum Number of Vowels in a Substring of Given Length](../leetcode-solutions/1567-maximum-number-of-vowels-in-a-substring-of-given-length) | Medium |
 | 1776 | [Minimum Operations to Reduce X to Zero](../leetcode-solutions/1776-minimum-operations-to-reduce-x-to-zero) | Medium |
 | 2001 | [Jump Game VII](../leetcode-solutions/2001-jump-game-vii) | Medium |
+| 2747 | [Count Zero Request Servers](../leetcode-solutions/2747-count-zero-request-servers) | Medium |
 | 3150 | [Shortest and Lexicographically Smallest Beautiful String](../leetcode-solutions/3150-shortest-and-lexicographically-smallest-beautiful-string) | Medium |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](../leetcode-solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) | Hard |
 | 4411 | [Count Rotations With Exactly K Equal Adjacent Pairs](../leetcode-solutions/4411-count-rotations-with-exactly-k-equal-adjacent-pairs) | Easy |

@@ -4,24 +4,24 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 ## Progress
 
-**Total indexed:** 327
+**Total indexed:** 328
 
 | Difficulty | Solved |
 |---|---:|
 | Easy | 105 |
-| Medium | 173 |
+| Medium | 174 |
 | Hard | 49 |
 
 ## Topics
 
 | Topic | Problems |
 |---|---:|
-| [Array](leetcode-topics/array.md) | 187 |
+| [Array](leetcode-topics/array.md) | 188 |
 | [String](leetcode-topics/string.md) | 78 |
 | [Math](leetcode-topics/math.md) | 60 |
+| [Hash Table](leetcode-topics/hash-table.md) | 58 |
 | [Dynamic Programming](leetcode-topics/dynamic-programming.md) | 57 |
-| [Hash Table](leetcode-topics/hash-table.md) | 57 |
-| [Sorting](leetcode-topics/sorting.md) | 43 |
+| [Sorting](leetcode-topics/sorting.md) | 44 |
 | [Two Pointers](leetcode-topics/two-pointers.md) | 40 |
 | [Binary Search](leetcode-topics/binary-search.md) | 33 |
 | [Depth-First Search](leetcode-topics/depth-first-search.md) | 33 |
@@ -37,8 +37,8 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [Graph Theory](leetcode-topics/graph-theory.md) | 15 |
 | [Prefix Sum](leetcode-topics/prefix-sum.md) | 15 |
 | [Linked List](leetcode-topics/linked-list.md) | 14 |
+| [Sliding Window](leetcode-topics/sliding-window.md) | 14 |
 | [Union-Find](leetcode-topics/union-find.md) | 14 |
-| [Sliding Window](leetcode-topics/sliding-window.md) | 13 |
 | [Backtracking](leetcode-topics/backtracking.md) | 12 |
 | [Enumeration](leetcode-topics/enumeration.md) | 12 |
 | [Counting](leetcode-topics/counting.md) | 11 |

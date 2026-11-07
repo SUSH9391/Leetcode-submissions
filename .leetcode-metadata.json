@@ -2810,6 +2810,30 @@
     "title": "Counter",
     "topics": []
   },
+  "2747": {
+    "difficulty": "Medium",
+    "id": 2747,
+    "slug": "count-zero-request-servers",
+    "title": "Count Zero Request Servers",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
   "2766": {
     "difficulty": "Medium",
     "id": 2657,

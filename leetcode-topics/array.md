@@ -1,6 +1,6 @@
 # Array
 
-**Problems solved:** 187
+**Problems solved:** 188
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -138,6 +138,7 @@
 | 2319 | [Longest Substring of One Repeating Character](../leetcode-solutions/2319-longest-substring-of-one-repeating-character) | Hard |
 | 2634 | [Minimum Common Value](../leetcode-solutions/2634-minimum-common-value) | Easy |
 | 2639 | [Separate the Digits in an Array](../leetcode-solutions/2639-separate-the-digits-in-an-array) | Easy |
+| 2747 | [Count Zero Request Servers](../leetcode-solutions/2747-count-zero-request-servers) | Medium |
 | 2766 | [Find the Prefix Common Array of Two Arrays](../leetcode-solutions/2766-find-the-prefix-common-array-of-two-arrays) | Medium |
 | 2778 | [Sum of Squares of Special Elements ](../leetcode-solutions/2778-sum-of-squares-of-special-elements) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](../leetcode-solutions/2913-subarrays-distinct-element-sum-of-squares-i) | Easy |
