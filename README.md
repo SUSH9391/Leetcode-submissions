@@ -4,19 +4,19 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 ## Progress
 
-**Total indexed:** 328
+**Total indexed:** 331
 
 | Difficulty | Solved |
 |---|---:|
 | Easy | 105 |
-| Medium | 174 |
+| Medium | 177 |
 | Hard | 49 |
 
 ## Topics
 
 | Topic | Problems |
 |---|---:|
-| [Array](leetcode-topics/array.md) | 188 |
+| [Array](leetcode-topics/array.md) | 189 |
 | [String](leetcode-topics/string.md) | 78 |
 | [Math](leetcode-topics/math.md) | 60 |
 | [Hash Table](leetcode-topics/hash-table.md) | 58 |
@@ -29,7 +29,7 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [Breadth-First Search](leetcode-topics/breadth-first-search.md) | 29 |
 | [Stack](leetcode-topics/stack.md) | 27 |
 | [Matrix](leetcode-topics/matrix.md) | 23 |
-| [Heap (Priority Queue)](leetcode-topics/heap-priority-queue.md) | 18 |
+| [Heap (Priority Queue)](leetcode-topics/heap-priority-queue.md) | 19 |
 | [Tree](leetcode-topics/tree.md) | 18 |
 | [Bit Manipulation](leetcode-topics/bit-manipulation.md) | 17 |
 | [Binary Tree](leetcode-topics/binary-tree.md) | 16 |

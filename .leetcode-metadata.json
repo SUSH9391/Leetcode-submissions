@@ -1611,6 +1611,22 @@
       }
     ]
   },
+  "1882": {
+    "difficulty": "Medium",
+    "id": 1882,
+    "slug": "process-tasks-using-servers",
+    "title": "Process Tasks Using Servers",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ]
+  },
   "1894": {
     "difficulty": "Easy",
     "id": 1768,
@@ -4803,6 +4819,20 @@
     "id": 4085,
     "slug": "find-root-of-a-colored-tree",
     "title": "Find Root of a Colored Tree",
+    "topics": []
+  },
+  "4106": {
+    "difficulty": "Medium",
+    "id": 4106,
+    "slug": "find-mismatched-segments-between-two-strings",
+    "title": "Find Mismatched Segments Between Two Strings",
+    "topics": []
+  },
+  "4107": {
+    "difficulty": "Medium",
+    "id": 4107,
+    "slug": "count-valid-suffix-sorts-i",
+    "title": "Count Valid Suffix Sorts I",
     "topics": []
   },
   "4119": {
