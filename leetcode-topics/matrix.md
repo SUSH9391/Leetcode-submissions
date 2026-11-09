@@ -1,6 +1,6 @@
 # Matrix
 
-**Problems solved:** 23
+**Problems solved:** 24
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -18,6 +18,7 @@
 | 864 | [Image Overlap](../leetcode-solutions/0864-image-overlap) | Medium |
 | 1036 | [Rotting Oranges](../leetcode-solutions/1036-rotting-oranges) | Medium |
 | 1234 | [Number of Paths with Max Score](../leetcode-solutions/1234-number-of-paths-with-max-score) | Hard |
+| 1267 | [Count Servers that Communicate](../leetcode-solutions/1267-count-servers-that-communicate) | Medium |
 | 1386 | [Shift 2D Grid](../leetcode-solutions/1386-shift-2d-grid) | Easy |
 | 1507 | [Check if There is a Valid Path in a Grid](../leetcode-solutions/1507-check-if-there-is-a-valid-path-in-a-grid) | Medium |
 | 1663 | [Detect Cycles in 2D Grid](../leetcode-solutions/1663-detect-cycles-in-2d-grid) | Medium |

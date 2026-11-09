@@ -1,6 +1,6 @@
 # Union-Find
 
-**Problems solved:** 14
+**Problems solved:** 15
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -10,6 +10,7 @@
 | 684 | [Redundant Connection](../leetcode-solutions/0684-redundant-connection) | Medium |
 | 695 | [Max Area of Island](../leetcode-solutions/0695-max-area-of-island) | Medium |
 | 794 | [Swim in Rising Water](../leetcode-solutions/0794-swim-in-rising-water) | Hard |
+| 1267 | [Count Servers that Communicate](../leetcode-solutions/1267-count-servers-that-communicate) | Medium |
 | 1507 | [Check if There is a Valid Path in a Grid](../leetcode-solutions/1507-check-if-there-is-a-valid-path-in-a-grid) | Medium |
 | 1663 | [Detect Cycles in 2D Grid](../leetcode-solutions/1663-detect-cycles-in-2d-grid) | Medium |
 | 1706 | [Min Cost to Connect All Points](../leetcode-solutions/1706-min-cost-to-connect-all-points) | Medium |

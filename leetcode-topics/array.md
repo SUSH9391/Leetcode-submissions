@@ -1,6 +1,6 @@
 # Array
 
-**Problems solved:** 189
+**Problems solved:** 191
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -99,6 +99,7 @@
 | 1222 | [Remove Covered Intervals](../leetcode-solutions/1222-remove-covered-intervals) | Medium |
 | 1234 | [Number of Paths with Max Score](../leetcode-solutions/1234-number-of-paths-with-max-score) | Hard |
 | 1256 | [Rank Transform of an Array](../leetcode-solutions/1256-rank-transform-of-an-array) | Easy |
+| 1267 | [Count Servers that Communicate](../leetcode-solutions/1267-count-servers-that-communicate) | Medium |
 | 1385 | [Find the Distance Value Between Two Arrays](../leetcode-solutions/1385-find-the-distance-value-between-two-arrays) | Easy |
 | 1386 | [Shift 2D Grid](../leetcode-solutions/1386-shift-2d-grid) | Easy |
 | 1428 | [Jump Game III](../leetcode-solutions/1428-jump-game-iii) | Medium |
@@ -112,6 +113,7 @@
 | 1570 | [Final Prices With a Special Discount in a Shop](../leetcode-solutions/1570-final-prices-with-a-special-discount-in-a-shop) | Easy |
 | 1574 | [Maximum Product of Two Elements in an Array](../leetcode-solutions/1574-maximum-product-of-two-elements-in-an-array) | Easy |
 | 1580 | [Shuffle the Array](../leetcode-solutions/1580-shuffle-the-array) | Easy |
+| 1606 | [Find Servers That Handled Most Number of Requests](../leetcode-solutions/1606-find-servers-that-handled-most-number-of-requests) | Hard |
 | 1663 | [Detect Cycles in 2D Grid](../leetcode-solutions/1663-detect-cycles-in-2d-grid) | Medium |
 | 1685 | [Stone Game V](../leetcode-solutions/1685-stone-game-v) | Hard |
 | 1706 | [Min Cost to Connect All Points](../leetcode-solutions/1706-min-cost-to-connect-all-points) | Medium |

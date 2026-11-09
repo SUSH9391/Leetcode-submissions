@@ -1,6 +1,6 @@
 # Simulation
 
-**Problems solved:** 16
+**Problems solved:** 17
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -13,6 +13,7 @@
 | 412 | [Fizz Buzz](../leetcode-solutions/0412-fizz-buzz) | Easy |
 | 1386 | [Shift 2D Grid](../leetcode-solutions/1386-shift-2d-grid) | Easy |
 | 1552 | [Build an Array With Stack Operations](../leetcode-solutions/1552-build-an-array-with-stack-operations) | Medium |
+| 1606 | [Find Servers That Handled Most Number of Requests](../leetcode-solutions/1606-find-servers-that-handled-most-number-of-requests) | Hard |
 | 2021 | [Remove All Occurrences of a Substring](../leetcode-solutions/2021-remove-all-occurrences-of-a-substring) | Medium |
 | 2043 | [Cyclically Rotating a Grid](../leetcode-solutions/2043-cyclically-rotating-a-grid) | Medium |
 | 2058 | [Concatenation of Array](../leetcode-solutions/2058-concatenation-of-array) | Easy |

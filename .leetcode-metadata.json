@@ -487,6 +487,38 @@
       }
     ]
   },
+  "1267": {
+    "difficulty": "Medium",
+    "id": 1267,
+    "slug": "count-servers-that-communicate",
+    "title": "Count Servers that Communicate",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union-Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
   "127": {
     "difficulty": "Hard",
     "id": 127,
@@ -1252,6 +1284,30 @@
       {
         "name": "Array",
         "slug": "array"
+      }
+    ]
+  },
+  "1606": {
+    "difficulty": "Hard",
+    "id": 1606,
+    "slug": "find-servers-that-handled-most-number-of-requests",
+    "title": "Find Servers That Handled Most Number of Requests",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
       }
     ]
   },

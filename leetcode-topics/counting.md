@@ -1,6 +1,6 @@
 # Counting
 
-**Problems solved:** 11
+**Problems solved:** 12
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -8,6 +8,7 @@
 | 229 | [Majority Element II](../leetcode-solutions/0229-majority-element-ii) | Medium |
 | 347 | [Top K Frequent Elements](../leetcode-solutions/0347-top-k-frequent-elements) | Medium |
 | 621 | [Task Scheduler](../leetcode-solutions/0621-task-scheduler) | Medium |
+| 1267 | [Count Servers that Communicate](../leetcode-solutions/1267-count-servers-that-communicate) | Medium |
 | 2156 | [Stone Game IX](../leetcode-solutions/2156-stone-game-ix) | Medium |
 | 3276 | [Minimum Number of Pushes to Type Word II](../leetcode-solutions/3276-minimum-number-of-pushes-to-type-word-ii) | Medium |
 | 3583 | [Sorted GCD Pair Queries](../leetcode-solutions/3583-sorted-gcd-pair-queries) | Hard |

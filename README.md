@@ -4,44 +4,44 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 
 ## Progress
 
-**Total indexed:** 331
+**Total indexed:** 333
 
 | Difficulty | Solved |
 |---|---:|
 | Easy | 105 |
-| Medium | 177 |
-| Hard | 49 |
+| Medium | 178 |
+| Hard | 50 |
 
 ## Topics
 
 | Topic | Problems |
 |---|---:|
-| [Array](leetcode-topics/array.md) | 189 |
+| [Array](leetcode-topics/array.md) | 191 |
 | [String](leetcode-topics/string.md) | 78 |
 | [Math](leetcode-topics/math.md) | 60 |
 | [Hash Table](leetcode-topics/hash-table.md) | 58 |
 | [Dynamic Programming](leetcode-topics/dynamic-programming.md) | 57 |
 | [Sorting](leetcode-topics/sorting.md) | 44 |
 | [Two Pointers](leetcode-topics/two-pointers.md) | 40 |
+| [Depth-First Search](leetcode-topics/depth-first-search.md) | 34 |
 | [Binary Search](leetcode-topics/binary-search.md) | 33 |
-| [Depth-First Search](leetcode-topics/depth-first-search.md) | 33 |
 | [Greedy](leetcode-topics/greedy.md) | 32 |
-| [Breadth-First Search](leetcode-topics/breadth-first-search.md) | 29 |
+| [Breadth-First Search](leetcode-topics/breadth-first-search.md) | 30 |
 | [Stack](leetcode-topics/stack.md) | 27 |
-| [Matrix](leetcode-topics/matrix.md) | 23 |
-| [Heap (Priority Queue)](leetcode-topics/heap-priority-queue.md) | 19 |
+| [Matrix](leetcode-topics/matrix.md) | 24 |
+| [Heap (Priority Queue)](leetcode-topics/heap-priority-queue.md) | 20 |
 | [Tree](leetcode-topics/tree.md) | 18 |
 | [Bit Manipulation](leetcode-topics/bit-manipulation.md) | 17 |
+| [Simulation](leetcode-topics/simulation.md) | 17 |
 | [Binary Tree](leetcode-topics/binary-tree.md) | 16 |
-| [Simulation](leetcode-topics/simulation.md) | 16 |
 | [Graph Theory](leetcode-topics/graph-theory.md) | 15 |
 | [Prefix Sum](leetcode-topics/prefix-sum.md) | 15 |
+| [Union-Find](leetcode-topics/union-find.md) | 15 |
 | [Linked List](leetcode-topics/linked-list.md) | 14 |
 | [Sliding Window](leetcode-topics/sliding-window.md) | 14 |
-| [Union-Find](leetcode-topics/union-find.md) | 14 |
 | [Backtracking](leetcode-topics/backtracking.md) | 12 |
+| [Counting](leetcode-topics/counting.md) | 12 |
 | [Enumeration](leetcode-topics/enumeration.md) | 12 |
-| [Counting](leetcode-topics/counting.md) | 11 |
 | [Divide and Conquer](leetcode-topics/divide-and-conquer.md) | 11 |
 | [Bracket Sequences](leetcode-topics/bracket-sequences.md) | 10 |
 | [Number Theory](leetcode-topics/number-theory.md) | 8 |
@@ -72,6 +72,7 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [Longest Increasing Subsequence](leetcode-topics/longest-increasing-subsequence.md) | 2 |
 | [Memoization](leetcode-topics/memoization.md) | 2 |
 | [Merge Sort](leetcode-topics/merge-sort.md) | 2 |
+| [Ordered Set](leetcode-topics/ordered-set.md) | 2 |
 | [Shell](leetcode-topics/shell.md) | 2 |
 | [String Matching](leetcode-topics/string-matching.md) | 2 |
 | [Algorithm X](leetcode-topics/algorithm-x.md) | 1 |
@@ -97,7 +98,6 @@ Automatically synced from LeetCode and organized by LeetCode topic.
 | [Minimum Spanning Tree](leetcode-topics/minimum-spanning-tree.md) | 1 |
 | [Newton's Method](leetcode-topics/newton-s-method.md) | 1 |
 | [Nim Game](leetcode-topics/nim-game.md) | 1 |
-| [Ordered Set](leetcode-topics/ordered-set.md) | 1 |
 | [Pigeonhole Principle](leetcode-topics/pigeonhole-principle.md) | 1 |
 | [Prim's Algorithm](leetcode-topics/prim-s-algorithm.md) | 1 |
 | [Primality Test](leetcode-topics/primality-test.md) | 1 |

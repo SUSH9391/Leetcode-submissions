@@ -1,6 +1,6 @@
 # Breadth-First Search
 
-**Problems solved:** 29
+**Problems solved:** 30
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -24,6 +24,7 @@
 | 794 | [Swim in Rising Water](../leetcode-solutions/0794-swim-in-rising-water) | Hard |
 | 803 | [Cheapest Flights Within K Stops](../leetcode-solutions/0803-cheapest-flights-within-k-stops) | Medium |
 | 1036 | [Rotting Oranges](../leetcode-solutions/1036-rotting-oranges) | Medium |
+| 1267 | [Count Servers that Communicate](../leetcode-solutions/1267-count-servers-that-communicate) | Medium |
 | 1428 | [Jump Game III](../leetcode-solutions/1428-jump-game-iii) | Medium |
 | 1447 | [Jump Game IV](../leetcode-solutions/1447-jump-game-iv) | Hard |
 | 1507 | [Check if There is a Valid Path in a Grid](../leetcode-solutions/1507-check-if-there-is-a-valid-path-in-a-grid) | Medium |

@@ -1,6 +1,6 @@
 # Depth-First Search
 
-**Problems solved:** 33
+**Problems solved:** 34
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -29,6 +29,7 @@
 | 744 | [Network Delay Time](../leetcode-solutions/0744-network-delay-time) | Medium |
 | 794 | [Swim in Rising Water](../leetcode-solutions/0794-swim-in-rising-water) | Hard |
 | 803 | [Cheapest Flights Within K Stops](../leetcode-solutions/0803-cheapest-flights-within-k-stops) | Medium |
+| 1267 | [Count Servers that Communicate](../leetcode-solutions/1267-count-servers-that-communicate) | Medium |
 | 1428 | [Jump Game III](../leetcode-solutions/1428-jump-game-iii) | Medium |
 | 1507 | [Check if There is a Valid Path in a Grid](../leetcode-solutions/1507-check-if-there-is-a-valid-path-in-a-grid) | Medium |
 | 1663 | [Detect Cycles in 2D Grid](../leetcode-solutions/1663-detect-cycles-in-2d-grid) | Medium |
