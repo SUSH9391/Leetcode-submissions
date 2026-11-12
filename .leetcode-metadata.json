@@ -4045,6 +4045,22 @@
       }
     ]
   },
+  "3789": {
+    "difficulty": "Medium",
+    "id": 3789,
+    "slug": "minimum-cost-to-acquire-required-items",
+    "title": "Minimum Cost to Acquire Required Items",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
   "3799": {
     "difficulty": "Easy",
     "id": 3483,

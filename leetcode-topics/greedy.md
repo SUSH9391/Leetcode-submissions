@@ -1,6 +1,6 @@
 # Greedy
 
-**Problems solved:** 32
+**Problems solved:** 33
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -31,6 +31,7 @@
 | 3275 | [Minimum Number of Pushes to Type Word I](../leetcode-solutions/3275-minimum-number-of-pushes-to-type-word-i) | Easy |
 | 3276 | [Minimum Number of Pushes to Type Word II](../leetcode-solutions/3276-minimum-number-of-pushes-to-type-word-ii) | Medium |
 | 3762 | [Maximize the Minimum Game Score](../leetcode-solutions/3762-maximize-the-minimum-game-score) | Hard |
+| 3789 | [Minimum Cost to Acquire Required Items](../leetcode-solutions/3789-minimum-cost-to-acquire-required-items) | Medium |
 | 3852 | [Path Existence Queries in a Graph II](../leetcode-solutions/3852-path-existence-queries-in-a-graph-ii) | Hard |
 | 3965 | [Earliest Finish Time for Land and Water Rides I](../leetcode-solutions/3965-earliest-finish-time-for-land-and-water-rides-i) | Easy |
 | 4005 | [Maximum Total Subarray Value I](../leetcode-solutions/4005-maximum-total-subarray-value-i) | Medium |

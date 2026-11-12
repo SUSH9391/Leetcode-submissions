@@ -1,15 +1,15 @@
 {
-  "total_indexed": 333,
+  "total_indexed": 334,
   "difficulty": {
     "Easy": 105,
-    "Medium": 178,
+    "Medium": 179,
     "Hard": 50
   },
   "topics": {
     "Array": 191,
     "Hash Table": 58,
     "Linked List": 14,
-    "Math": 60,
+    "Math": 61,
     "Recursion": 7,
     "String": 78,
     "Sliding Window": 14,
@@ -18,7 +18,7 @@
     "Two Pointers": 40,
     "Dynamic Programming": 57,
     "Manacher": 1,
-    "Greedy": 32,
+    "Greedy": 33,
     "Trie": 4,
     "Sorting": 44,
     "Backtracking": 12,

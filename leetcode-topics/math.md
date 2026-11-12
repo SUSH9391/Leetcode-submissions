@@ -1,6 +1,6 @@
 # Math
 
-**Problems solved:** 60
+**Problems solved:** 61
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -45,6 +45,7 @@
 | 3626 | [Smallest Divisible Digit Product I](../leetcode-solutions/3626-smallest-divisible-digit-product-i) | Easy |
 | 3736 | [Minimum Moves to Equal Array Elements III](../leetcode-solutions/3736-minimum-moves-to-equal-array-elements-iii) | Easy |
 | 3781 | [Maximize the Distance Between Points on a Square](../leetcode-solutions/3781-maximize-the-distance-between-points-on-a-square) | Hard |
+| 3789 | [Minimum Cost to Acquire Required Items](../leetcode-solutions/3789-minimum-cost-to-acquire-required-items) | Medium |
 | 3813 | [Smallest Palindromic Rearrangement II](../leetcode-solutions/3813-smallest-palindromic-rearrangement-ii) | Hard |
 | 3820 | [Number of Unique XOR Triplets II](../leetcode-solutions/3820-number-of-unique-xor-triplets-ii) | Medium |
 | 3824 | [Number of Unique XOR Triplets I](../leetcode-solutions/3824-number-of-unique-xor-triplets-i) | Medium |
