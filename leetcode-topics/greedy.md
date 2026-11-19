@@ -1,6 +1,6 @@
 # Greedy
 
-**Problems solved:** 33
+**Problems solved:** 34
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -28,6 +28,7 @@
 | 2212 | [Removing Minimum and Maximum From Array](../leetcode-solutions/2212-removing-minimum-and-maximum-from-array) | Medium |
 | 2245 | [Destroying Asteroids](../leetcode-solutions/2245-destroying-asteroids) | Medium |
 | 2559 | [Maximum Number of Non-overlapping Palindrome Substrings](../leetcode-solutions/2559-maximum-number-of-non-overlapping-palindrome-substrings) | Hard |
+| 2567 | [Minimum Score by Changing Two Elements](../leetcode-solutions/2567-minimum-score-by-changing-two-elements) | Medium |
 | 3275 | [Minimum Number of Pushes to Type Word I](../leetcode-solutions/3275-minimum-number-of-pushes-to-type-word-i) | Easy |
 | 3276 | [Minimum Number of Pushes to Type Word II](../leetcode-solutions/3276-minimum-number-of-pushes-to-type-word-ii) | Medium |
 | 3762 | [Maximize the Minimum Game Score](../leetcode-solutions/3762-maximize-the-minimum-game-score) | Hard |

@@ -2731,6 +2731,26 @@
       }
     ]
   },
+  "2567": {
+    "difficulty": "Medium",
+    "id": 2567,
+    "slug": "minimum-score-by-changing-two-elements",
+    "title": "Minimum Score by Changing Two Elements",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
   "257": {
     "difficulty": "Easy",
     "id": 257,

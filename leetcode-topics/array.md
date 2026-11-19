@@ -1,6 +1,6 @@
 # Array
 
-**Problems solved:** 191
+**Problems solved:** 192
 
 | # | Problem | Difficulty |
 |---:|---|---|
@@ -139,6 +139,7 @@
 | 2245 | [Destroying Asteroids](../leetcode-solutions/2245-destroying-asteroids) | Medium |
 | 2316 | [Count Hills and Valleys in an Array](../leetcode-solutions/2316-count-hills-and-valleys-in-an-array) | Easy |
 | 2319 | [Longest Substring of One Repeating Character](../leetcode-solutions/2319-longest-substring-of-one-repeating-character) | Hard |
+| 2567 | [Minimum Score by Changing Two Elements](../leetcode-solutions/2567-minimum-score-by-changing-two-elements) | Medium |
 | 2634 | [Minimum Common Value](../leetcode-solutions/2634-minimum-common-value) | Easy |
 | 2639 | [Separate the Digits in an Array](../leetcode-solutions/2639-separate-the-digits-in-an-array) | Easy |
 | 2747 | [Count Zero Request Servers](../leetcode-solutions/2747-count-zero-request-servers) | Medium |
